@@ -15,6 +15,7 @@
 - Reese's Sodium Options
 - LambDynamicLights - Dynamic Lights
 - LambdaBetterGrass
+- Continuity
 - [ETF] Entity Texture Features
 - [EMF] Entity Model Features
 - [ESF] Entity Sound Features
