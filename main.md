@@ -42,6 +42,7 @@
 - Explorify
 - Luki's Grand Capitals
 - Luki's Crazy Chambers
+- Luki's Strongholds
 ## mobs
 - True Ending - Ender Dragon Overhaul
 ## QOL
