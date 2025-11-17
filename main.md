@@ -2,15 +2,15 @@
 ## core
 - Fabric API
 - Mod Menu
-## render
+## rendering
 - Sodium
 - Iris Shaders
 - ImmediatelyFast
 - voxy
-## render extra
+## rendering extra
 - More Culling
 - Entity Culling
-## QOL
+## QoL
 - Sodium Extra
 - Reese's Sodium Options
 - LambDynamicLights - Dynamic Lights
@@ -21,8 +21,13 @@
 - [ESF] Entity Sound Features
 - OptiGUI
 - Ok Zoomer
+- Resourcify
+## QoL extra
 - CList
 - ViaFabricPlus
+- Simple Voice Chat
+- First-person Model
+- Not Enough Animations
 
 # server-side
 ## core
@@ -30,7 +35,9 @@
 - Lithium
 - FerriteCore
 - ScalableLux
-## fixes
+## network
+- Krypton
+## bugs
 - Debugify
 
 # resourcepacks
