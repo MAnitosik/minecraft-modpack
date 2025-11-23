@@ -14,7 +14,6 @@
 - Sodium Extra
 - Reese's Sodium Options
 - LambDynamicLights - Dynamic Lights
-- LambdaBetterGrass
 - Continuity
 - [ETF] Entity Texture Features
 - [EMF] Entity Model Features
@@ -42,6 +41,9 @@
 
 # resourcepacks
 - Reimagined
+- Fresh Animations
+- Reimagined | Fresh Animations Patch
+- Better Animations
 
 # datapacks
 ## world generation
@@ -57,5 +59,5 @@
 - Refined Advancements
 - Unlock All Recipes
 
-# credits
-- https://wiki.fabricmc.net/community:optifine_alternatives
+# roadmap
+- e4mc
