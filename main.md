@@ -43,7 +43,7 @@
 - Reimagined
 - Fresh Animations
 - Reimagined | Fresh Animations Patch
-- Better Animations
+- Fresh Moves
 
 # datapacks
 ## world generation
