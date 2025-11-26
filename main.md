@@ -42,6 +42,9 @@
 - Reimagined | Fresh Animations Patch
 - Fresh Moves
 
+# shaders
+- Complementary Shaders - Reimagined
+
 # datapacks
 - Terralith
 - Explorify
