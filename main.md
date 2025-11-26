@@ -28,6 +28,7 @@
 - Continuity
 - LambDynamicLights - Dynamic Lights
 # QoL extra
+- voxy
 - Resourcify
 - CList
 - ViaFabricPlus
