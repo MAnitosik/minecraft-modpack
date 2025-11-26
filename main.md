@@ -1,43 +1,39 @@
-# client-side
-## core
+# core
 - Fabric API
 - Mod Menu
-## rendering
+# optimization
+- Lithium
 - Sodium
-- Iris Shaders
-- ImmediatelyFast
-- voxy
-## rendering extra
-- More Culling
+- Concurrent Chunk Management Engine (Fabric)
 - Entity Culling
-## QoL
-- Sodium Extra
-- Reese's Sodium Options
-- LambDynamicLights - Dynamic Lights
-- Continuity
+- ImmediatelyFast
+- FerriteCore
+- ModernFix-mVUS
+- ScalableLux
+- BadOptimizations
+- More Culling
+- Very Many Players (Fabric)
+- Better Block Entities
+# optimization extra
+- Alternate Current
+# QoL
+- Ok Zoomer
+- Iris Shaders
 - [ETF] Entity Texture Features
 - [EMF] Entity Model Features
 - [ESF] Entity Sound Features
 - OptiGUI
-- Ok Zoomer
+- Sodium Extra
+- Reese's Sodium Options
+- Continuity
+- LambDynamicLights - Dynamic Lights
+# QoL extra
 - Resourcify
-## QoL extra
 - CList
 - ViaFabricPlus
 - Simple Voice Chat
 - First-person Model
 - Not Enough Animations
-
-# server-side
-## core
-- Concurrent Chunk Management Engine (Fabric)
-- Lithium
-- FerriteCore
-- ScalableLux
-## network
-- Krypton
-## bugs
-- Debugify
 
 # resourcepacks
 - Reimagined
@@ -46,18 +42,19 @@
 - Fresh Moves
 
 # datapacks
-## world generation
 - Terralith
 - Explorify
 - Luki's Grand Capitals
 - Luki's Crazy Chambers
 - Luki's Strongholds
-## mobs
 - True Ending - Ender Dragon Overhaul
-## QOL
 - Vanilla Refresh
 - Refined Advancements
 - Unlock All Recipes
 
-# roadmap
-- e4mc
+# planned 
+- e4mc 
+- ModernFix
+- other optifine alternatives...
+# deprecated
+- Noisium / NoisiumForked
