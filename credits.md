@@ -1,0 +1,3 @@
+- https://modrinth.com/modpack/sop
+- https://modrinth.com/modpack/additive
+- https://modrinth.com/modpack/server-optimizationn
