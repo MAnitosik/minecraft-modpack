@@ -54,6 +54,8 @@
 - Nullscape
 - True Ending - Ender Dragon Overhaul
 - Vanilla Refresh
+- Unlock All Recipes
+- Refined Advancements
 
 ### deprecated
 - Animatica # is not up-to-date
