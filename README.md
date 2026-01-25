@@ -40,10 +40,10 @@
 - CList
 - Resourcify
 
-# resource packs
+### resource packs
 - Reimagined
 
-# data packs
+### data packs
 - Terralith
 - Explorify
 - Luki's Grand Capitals
