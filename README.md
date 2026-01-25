@@ -39,7 +39,6 @@
 - voxy
 - CList
 - Resourcify
-- ViaFabricPlus
 
 # resource packs
 - Reimagined
@@ -62,3 +61,4 @@
 
 ### roadmap
 - ModernFix
+- update mrpack modrinth (viafabric breaks things)
