@@ -63,7 +63,5 @@
 - Refined Advancements
 
 ### deprecated
-- Animatica # is not up-to-date
-
-### todo
-- ModernFix instead of ModernFix-mVUS
+- Animatica # is not up-to-date (and probably will never be updated)
+- voxy # temporally disabled due to conflict with new version of sodium
