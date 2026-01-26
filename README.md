@@ -39,7 +39,6 @@
 ### extra
 - e4mc
 - Fix Keyboard on Linux
-- voxy
 - CList
 - Resourcify
 
