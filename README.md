@@ -19,6 +19,9 @@
 - Krypton
 - Alternate Current
 
+### all-in-one tweaks
+- ModernFix-mVUS
+
 ### quality-of-life
 - Iris Shaders
 - LambDynamicLights - Dynamic Lights
@@ -43,7 +46,10 @@
 ### resource packs
 - Reimagined
 
-### data packs
+### shaders
+- Complementary Shaders - Reimagined
+
+### data packs (downloading them as mods)
 - Terralith
 - Explorify
 - Luki's Grand Capitals
@@ -59,5 +65,5 @@
 ### deprecated
 - Animatica # is not up-to-date
 
-### roadmap
-- ModernFix
+### todo
+- ModernFix instead of ModernFix-mVUS
