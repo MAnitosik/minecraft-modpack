@@ -41,9 +41,11 @@
 - Fix Keyboard on Linux
 - CList
 - Resourcify
+- Hold My Items
 
 ### resource packs
-- Reimagined
+- Detailed Animations
+- Fresh Animations
 
 ### shaders
 - Complementary Shaders - Reimagined
@@ -63,6 +65,5 @@
 
 ### deprecated
 - Animatica # is not up-to-date (and probably will never be updated)
-- voxy # temporally disabled due to conflict with new version of sodium
-
-> temporally deleted shaderpacks config for CS - R
+- voxy # currently unstable, big performance loss on some pc
+- Reimagined # RP, currently doesnt work, has some too detailed textures (con for me)
