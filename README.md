@@ -64,3 +64,5 @@
 ### deprecated
 - Animatica # is not up-to-date (and probably will never be updated)
 - voxy # temporally disabled due to conflict with new version of sodium
+
+> temporally deleted shaderpacks config for CS - R
