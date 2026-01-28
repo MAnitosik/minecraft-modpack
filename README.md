@@ -44,7 +44,6 @@
 - Hold My Items
 
 ### resource packs
-- Detailed Animations
 - Fresh Animations
 
 ### shaders
@@ -67,3 +66,4 @@
 - Animatica # is not up-to-date (and probably will never be updated)
 - voxy # currently unstable, big performance loss on some pc
 - Reimagined # RP, currently doesnt work, has some too detailed textures (con for me)
+- Detailed Animations # RP, breaks "Hold My Items", marked as broken
