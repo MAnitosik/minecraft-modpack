@@ -41,7 +41,7 @@
 - Fix Keyboard on Linux
 - CList
 - Resourcify
-- Hold My Items
+- First-person Model
 
 ### resource packs
 - Fresh Animations
@@ -69,6 +69,4 @@
 - voxy # currently unstable, big performance loss on some pc
 - Reimagined # RP, currently doesnt work, has some too detailed textures (con for me)
 - Detailed Animations # RP, breaks "Hold My Items", marked as broken
-
-### todo
-- delete "Hold My Items" and install any first-person mod
+- Hold My Items # using "First-person Model" instead
