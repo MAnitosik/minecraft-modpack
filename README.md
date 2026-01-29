@@ -45,6 +45,8 @@
 
 ### resource packs
 - Fresh Animations
+- Fresh Animations: Extensions
+- Fresh Animations: Player Extension
 
 ### shaders
 - Complementary Shaders - Reimagined
