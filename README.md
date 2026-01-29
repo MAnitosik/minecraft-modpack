@@ -69,3 +69,6 @@
 - voxy # currently unstable, big performance loss on some pc
 - Reimagined # RP, currently doesnt work, has some too detailed textures (con for me)
 - Detailed Animations # RP, breaks "Hold My Items", marked as broken
+
+### todo
+- delete "Hold My Items" and install any first-person mod
