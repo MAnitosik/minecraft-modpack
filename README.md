@@ -44,7 +44,6 @@
 - First-person Model # configure
 - Third Person Camera # configure
 - Subtle Effects
-- Euphoria Patches
 
 ### resource packs
 - Fresh Animations
