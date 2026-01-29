@@ -42,6 +42,8 @@
 - CList
 - Resourcify
 - First-person Model
+- Shoulder Surfing Reloaded
+- Subtle Effects
 
 ### resource packs
 - Fresh Animations
