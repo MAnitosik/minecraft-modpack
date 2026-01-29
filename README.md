@@ -41,8 +41,8 @@
 - Fix Keyboard on Linux
 - CList
 - Resourcify
-- First-person Model
-- Third Person Camera
+- First-person Model # configure
+- Third Person Camera # configure
 - Subtle Effects
 
 ### resource packs
