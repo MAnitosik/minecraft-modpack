@@ -42,7 +42,7 @@
 - CList
 - Resourcify
 - First-person Model
-- Shoulder Surfing Reloaded
+- Third Person Camera
 - Subtle Effects
 
 ### resource packs
