@@ -47,8 +47,9 @@
 
 ### resource packs
 - Fresh Animations
-- Fresh Animations: Extensions
 - Fresh Animations: Player Extension
+- Allure
+- Allure x Fresh Animations
 
 ### shaders
 - Complementary Shaders - Reimagined
@@ -73,4 +74,5 @@
 - voxy # currently unstable, big performance loss on some pc
 
 ### todo
-- explain "/function meteors:config" on modrinth
+- mod/datapack that simplifies building and mining so it is not boring
+- mod/datapack to automate most of routine things
