@@ -56,15 +56,15 @@
 ### data packs (downloading them as mods)
 - Terralith
 - Explorify
-- Luki's Grand Capitals
+- Vanilla Structure Update
 - Luki's Crazy Chambers
-- Luki's Strongholds
 - Amplified Nether
 - Nullscape
 - True Ending - Ender Dragon Overhaul
 - Vanilla Refresh
 - Unlock All Recipes
 - Refined Advancements
+- Meteors
 
 ### deprecated
 - Animatica # is not up-to-date (and probably will never be updated)
@@ -72,3 +72,8 @@
 - Reimagined # RP, currently doesnt work, has some too detailed textures (con for me)
 - Detailed Animations # RP, breaks "Hold My Items", marked as broken
 - Hold My Items # using "First-person Model" instead
+- Luki's Grand Capitals # Vanilla Structure Update
+- Luki's Strongholds # Vanilla Structure Update
+
+### todo
+- explain "/function meteors:config" on modrinth
