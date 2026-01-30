@@ -76,3 +76,4 @@
 ### todo
 - mod/datapack that simplifies building and mining so it is not boring
 - mod/datapack to automate most of routine things
+- revive system # not sure tho
