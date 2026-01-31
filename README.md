@@ -74,6 +74,5 @@
 - voxy # currently unstable, big performance loss on some pc
 
 ### todo
-- mod/datapack that simplifies building and mining so it is not boring
-- mod/datapack to automate most of routine things
+- review third-person mod, the mod itself works bad sometimes
 - update shaders config # moon phase thing, 0.75, 0.50, 0.25
