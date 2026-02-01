@@ -66,7 +66,6 @@
 - Vanilla Refresh
 - Unlock All Recipes
 - Refined Advancements
-- Meteors
 - More Mobs
 
 ### deprecated
