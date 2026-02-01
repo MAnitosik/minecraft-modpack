@@ -63,6 +63,7 @@
 - Amplified Nether
 - Nullscape
 - True Ending - Ender Dragon Overhaul
+- Wither's Wrath
 - Vanilla Refresh
 - Unlock All Recipes
 - Refined Advancements
