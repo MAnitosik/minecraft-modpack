@@ -75,4 +75,3 @@
 
 ### todo
 - review third-person mod, the mod itself works bad sometimes
-- update shaders config # moon phase thing, 0.75, 0.50, 0.25
