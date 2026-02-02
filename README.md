@@ -55,7 +55,6 @@
 
 ### data packs (downloading them as mods)
 - Terralith
-- Tectonic
 - Amplified Nether
 - Nullscape
 - qraftyfied: STRUCTURES
