@@ -68,6 +68,7 @@
 - Vanilla Refresh
 - Unlock All Recipes
 - Refined Advancements
+- Pocket Dimensions
 
 ### deprecated
 - Animatica # is not up-to-date (and probably will never be updated)
