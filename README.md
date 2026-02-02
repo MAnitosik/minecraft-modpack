@@ -37,7 +37,6 @@
 - Reese's Sodium Options
 
 ### extra
-- e4mc
 - Fix Keyboard on Linux
 - CList
 - Resourcify
@@ -56,9 +55,13 @@
 
 ### data packs (downloading them as mods)
 - Terralith
+- Tectonic
 - Amplified Nether
 - Nullscape
+- qraftyfied: STRUCTURES
 - Explorify
+- Dungeons and Taverns Stronghold Overhaul
+- Dungeons and Taverns Nether Fortress Overhaul
 - Villages Revamped
 - More Mobs
 - True Ending - Ender Dragon Overhaul
