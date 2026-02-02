@@ -52,6 +52,7 @@
 
 ### shaders
 - Complementary Shaders - Reimagined
+- Miniature Shader
 
 ### data packs (downloading them as mods)
 - Terralith
