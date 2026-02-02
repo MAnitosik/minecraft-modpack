@@ -56,18 +56,16 @@
 
 ### data packs (downloading them as mods)
 - Terralith
-- Explorify
-- Villages Revamped
-- Luki's Crazy Chambers
-- Luki's Strongholds
 - Amplified Nether
 - Nullscape
+- Explorify
+- Villages Revamped
+- More Mobs
 - True Ending - Ender Dragon Overhaul
 - Wither's Wrath
 - Vanilla Refresh
 - Unlock All Recipes
 - Refined Advancements
-- More Mobs
 
 ### deprecated
 - Animatica # is not up-to-date (and probably will never be updated)
