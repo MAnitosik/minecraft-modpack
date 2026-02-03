@@ -60,6 +60,7 @@
 - Nullscape
 - qraftyfied: STRUCTURES
 - Explorify
+- Luki's Crazy Chambers
 - Dungeons and Taverns Stronghold Overhaul
 - Dungeons and Taverns Nether Fortress Overhaul
 - Villages Revamped
