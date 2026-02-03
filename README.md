@@ -51,8 +51,8 @@
 - Allure x Fresh Animations
 
 ### shaders
-- Complementary Shaders - Reimagined
-- Miniature Shader
+- Complementary Shaders - Unbound
+- MakeUp - Ultra Fast
 
 ### data packs (downloading them as mods)
 - Terralith
