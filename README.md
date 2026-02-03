@@ -52,6 +52,7 @@
 
 ### shaders
 - Complementary Shaders - Unbound
+- BSL Shaders
 - MakeUp - Ultra Fast
 
 ### data packs (downloading them as mods)
