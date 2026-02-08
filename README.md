@@ -40,8 +40,8 @@
 - Fix Keyboard on Linux
 - CList
 - Resourcify
-- First-person Model # configure
-- Third Person Camera # configure
+- First-person Model
+- Third Person Camera
 - Subtle Effects
 
 ### resource packs
