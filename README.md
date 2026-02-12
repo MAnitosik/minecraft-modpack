@@ -81,3 +81,4 @@
 
 ### todo
 - use qraftyfied: STRUCTURES terralith version (currently there is no present special version for terralith on modrinth)
+- review list of mods due to SO being archived (https://modrinth.com/modpack/sop), use adrenaline and additive wikis instead (also change credits, press F to SOP modpack)
