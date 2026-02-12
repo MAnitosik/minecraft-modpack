@@ -80,3 +80,4 @@
 ### todo
 - review third-person mod, the mod itself works bad sometimes
 - use qraftyfied: STRUCTURES terralith version (currently there is no present special version for terralith on modrinth)
+- consider adding "reactive music"
