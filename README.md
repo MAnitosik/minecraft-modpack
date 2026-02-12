@@ -78,6 +78,6 @@
 - voxy # currently unstable, big performance loss on some pc
 
 ### todo
-- review third-person mod, the mod itself works bad sometimes
+- review third-person mod, the mod itself works bad sometimes, change with another mod
 - use qraftyfied: STRUCTURES terralith version (currently there is no present special version for terralith on modrinth)
-- consider adding "reactive music"
+- consider adding "reactive music" and "sounds", also some camera overhaul mod
