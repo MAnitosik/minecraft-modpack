@@ -40,9 +40,11 @@
 - Fix Keyboard on Linux
 - CList
 - Resourcify
+- Camera Overhaul
 - First-person Model
 - Third Person Camera
 - Subtle Effects
+- Reactive Music
 
 ### resource packs
 - Fresh Animations
@@ -78,6 +80,4 @@
 - voxy # currently unstable, big performance loss on some pc
 
 ### todo
-- review third-person mod, the mod itself works bad sometimes, change with another mod
 - use qraftyfied: STRUCTURES terralith version (currently there is no present special version for terralith on modrinth)
-- consider adding "reactive music", also some camera overhaul mod
