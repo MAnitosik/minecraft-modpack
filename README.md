@@ -89,3 +89,4 @@
 - add RP "Visual Effects+" as it updates to 1.21.11
 - use HMI and delete third/first person mods in case third person camera dont get updates
 - issues with RP player animations and "not enough animations"
+- consider "LAN World Plug-n-Play (mcwifipnp)" to add
