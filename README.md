@@ -82,3 +82,6 @@
 - Refined Advancements
 - Unlock All Recipes
 - Pocket Dimensions
+
+### todo
+- add RP "Visual Effects+" as it updates to 1.21.11
