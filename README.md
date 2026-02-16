@@ -1,25 +1,27 @@
 ### kernel
 - Fabric API
+- YetAnotherConfigLib (YACL)
 - Cloth Config API
 - Mod Menu
 
 ### rendering
-- Sodium
+- Cull Fewer Leaves
 - ImmediatelyFast
-- Entity Culling
+- Sodium
 - Better Block Entities
-- More Culling
+- Entity Culling
 
 ### game logic
-- Concurrent Chunk Management Engine (Fabric)
-- Lithium
-- ScalableLux
-- Fast Noise
 - FerriteCore
+- ScalableLux
+- Lithium
 - Krypton
+- BadOptimizations
+- Fast Noise
+- Concurrent Chunk Management Engine (Fabric)
 - Alternate Current
 
-### all-in-one tweaks
+### all-in-one
 - ModernFix-mVUS
 
 ### quality-of-life
@@ -29,6 +31,7 @@
 - LambdaBetterGrass
 - Continuity
 - [EMF] Entity Model Features
+- ~~Animatica~~
 - Sodium Extra
 - Polytone
 - OptiGUI
@@ -37,7 +40,12 @@
 - Reese's Sodium Options
 
 ### extra
+- Crash Assistant
 - Fix Keyboard on Linux
+- FastQuit
+- Language Reload
+
+### experience
 - CList
 - Resourcify
 - Camera Overhaul
@@ -55,30 +63,22 @@
 ### shaders
 - Complementary Shaders - Unbound
 - BSL Shaders
-- MakeUp - Ultra Fast
 
 ### data packs (downloading them as mods)
 - Terralith
 - Amplified Nether
 - Nullscape
-- qraftyfied: STRUCTURES
+- Structory
+- Structory: Towers
 - Explorify
+- Luki's Grand Capitals
 - Luki's Crazy Chambers
-- Dungeons and Taverns Stronghold Overhaul
 - Dungeons and Taverns Nether Fortress Overhaul
-- Villages Revamped
-- More Mobs
+- Dungeons and Taverns Stronghold Overhaul
 - True Ending - Ender Dragon Overhaul
 - Wither's Wrath
+- More Mobs
 - Vanilla Refresh
-- Unlock All Recipes
 - Refined Advancements
+- Unlock All Recipes
 - Pocket Dimensions
-
-### deprecated
-- Animatica # is not up-to-date (and probably will never be updated)
-- voxy # currently unstable, big performance loss on some pc
-
-### todo
-- use qraftyfied: STRUCTURES terralith version (currently there is no present special version for terralith on modrinth)
-- review list of mods due to SO being archived (https://modrinth.com/modpack/sop), use adrenaline and additive wikis instead (also change credits, press F to SOP modpack)
