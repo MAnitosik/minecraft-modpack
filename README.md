@@ -59,6 +59,8 @@
 - Fresh Animations: Player Extension
 - Allure
 - Allure x Fresh Animations
+- Icons
+- Weskerson's 3D Items
 
 ### shaders
 - Complementary Shaders - Unbound
