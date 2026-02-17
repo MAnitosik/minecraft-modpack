@@ -53,6 +53,8 @@
 - Third Person Camera
 - Subtle Effects
 - Reactive Music
+- Sounds
+- Sound Physics Remastered
 
 ### resource packs
 - Fresh Animations
