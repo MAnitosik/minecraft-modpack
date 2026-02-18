@@ -67,6 +67,7 @@
 ### shaders
 - Complementary Shaders - Unbound
 - BSL Shaders
+- Miniature Shader
 
 ### data packs (downloading them as mods)
 - Terralith
