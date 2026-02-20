@@ -22,6 +22,7 @@
 - Krypton
 - FerriteCore
 - Alternate Current
+- Ixeris
 - Immersive Optimization
 
 ### all-in-one
