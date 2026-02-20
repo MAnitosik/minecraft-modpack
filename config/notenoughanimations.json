@@ -1,0 +1,18 @@
+{
+  "configVersion": 10,
+  "enableAnimationSmoothing": false,
+  "enableLadderAnimation": false,
+  "enableEatDrinkAnimation": false,
+  "enableRowBoatAnimation": false,
+  "enableHorseAnimation": false,
+  "enableHorseLegAnimation": false,
+  "enableCrawlingAnimation": false,
+  "itemSwapAnimation": false,
+  "petAnimation": false,
+  "fallingAnimation": false,
+  "freezingAnimation": false,
+  "huggingAnimation": false,
+  "clampCrossbowAnimations": false,
+  "burningAnimation": false,
+  "animateLanterns": false
+}
