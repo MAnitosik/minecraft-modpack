@@ -13,6 +13,7 @@
 - Sodium
 - Cull Fewer Leaves
 - Entity Culling
+- Ixeris
 
 ### game logic
 - Lithium
@@ -22,7 +23,6 @@
 - Krypton
 - FerriteCore
 - Alternate Current
-- Ixeris
 - Immersive Optimization
 
 ### all-in-one
