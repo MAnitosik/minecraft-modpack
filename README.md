@@ -16,6 +16,7 @@
 - Ixeris
 
 ### game logic
+- Very Many Players (Fabric)
 - Lithium
 - Concurrent Chunk Management Engine (Fabric)
 - ScalableLux
