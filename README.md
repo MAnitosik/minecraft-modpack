@@ -1,30 +1,34 @@
 ### kernel
-- Fabric API
+- Fzzy Config
 - YetAnotherConfigLib (YACL)
 - Cloth Config API
+- Fabric Language Kotlin
+- Fabric API
 - Mod Menu
 
 ### rendering
-- Cull Fewer Leaves
 - ImmediatelyFast
-- Sodium
 - Better Block Entities
+- Particle Core
+- Sodium
+- Cull Fewer Leaves
 - Entity Culling
 
 ### game logic
-- FerriteCore
-- ScalableLux
 - Lithium
-- Krypton
-- BadOptimizations
-- Fast Noise
 - Concurrent Chunk Management Engine (Fabric)
+- ScalableLux
+- Fast Noise
+- Krypton
+- FerriteCore
 - Alternate Current
+- Immersive Optimization
 
 ### all-in-one
 - ModernFix-mVUS
 
 ### quality-of-life
+- Sodium Extra
 - Iris Shaders
 - LambDynamicLights - Dynamic Lights
 - Ok Zoomer
@@ -32,15 +36,13 @@
 - Continuity
 - [EMF] Entity Model Features
 - ~~Animatica~~
-- Sodium Extra
 - Polytone
 - OptiGUI
+- Skyboxify
 - [ETF] Entity Texture Features
 - Puzzle
-- Reese's Sodium Options
 
 ### extra
-- Crash Assistant
 - Fix Keyboard on Linux
 - FastQuit
 - Language Reload
@@ -51,7 +53,6 @@
 - Camera Overhaul
 - First-person Model
 - Third Person Camera
-- Subtle Effects
 - Reactive Music
 - Sounds
 - Sound Physics Remastered
@@ -90,7 +91,5 @@
 
 ### todo
 - add RP "Visual Effects+" as it updates to 1.21.11
-- use HMI and delete third/first person mods in case third person camera dont get updates
+- use HMI and delete third/first person mods in case third person camera dont get updates (will need to do smth with RPs too in this case)
 - issues with RP player animations and "not enough animations"
-- consider "LAN World Plug-n-Play (mcwifipnp)" to add
-- mods to make building easier
