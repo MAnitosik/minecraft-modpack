@@ -1,4 +1,4 @@
-### X.Y-DD.MM.YYYY
+### v<X.Y>-d<DD.MM.YYYY>
 
 X - additions|removals of mods|resourcepacks|shaders
 Y - config additions|removals|changes or mods|resourcepacks|shaders updates
