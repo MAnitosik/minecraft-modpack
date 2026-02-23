@@ -10,11 +10,11 @@ Y does not reset when X updates (X and Y do not depend on each other)
 ### changelogs
 
 assets:
-  - added <mod|resourcepack|shader>
-  - removed <mod|resourcepack|shader>
+  - added "<mod|resourcepack|shader>"
+  - removed "<mod|resourcepack|shader>"
   - updated mods, resourcepacks and shaders
 
 configs:
-  - added <mod|resourcepack|shader> config
-  - deleted <mod|resourcepack|shader> config
-  - changed <mod|resourcepack|shader> config
+  - added "<mod|resourcepack|shader>" config
+  - deleted "<mod|resourcepack|shader>" config
+  - changed "<mod|resourcepack|shader>" config
