@@ -1,6 +1,5 @@
 ### kernel
 - Fzzy Config
-- YetAnotherConfigLib (YACL)
 - Cloth Config API
 - Fabric Language Kotlin
 - Fabric API
