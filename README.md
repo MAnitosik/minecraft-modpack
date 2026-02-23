@@ -46,6 +46,7 @@
 
 ### extra
 - Fix Keyboard on Linux
+- Controlify (Controller support)
 - FastQuit
 - Language Reload
 
