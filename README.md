@@ -92,6 +92,11 @@
 - Unlock All Recipes
 - Pocket Dimensions
 
+# mods for data packs
+- Hide Experimental Warning
+- No Command Confirm
+- Village Spawn Point
+
 ### todo
 - add RP "Visual Effects+" as it updates to 1.21.11
 - use HMI and delete third/first person mods in case third person camera dont get updates (will need to do smth with RPs too in this case)
