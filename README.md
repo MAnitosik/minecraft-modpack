@@ -59,6 +59,7 @@
 - Reactive Music
 - Sounds
 - Sound Physics Remastered
+- Smooth Scrolling
 
 ### resource packs
 - Fresh Animations
