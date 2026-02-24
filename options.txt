@@ -1,2 +1,2 @@
 simulationDistance:8
-resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","file/§e§lAllure§r§0.zip","file/Weskerson\u0027s 3D Items.zip","file/Icons v.1.13.2.zip","file/FreshAnimations_v1.10.3.zip","file/FA+Player-v1.0.zip","file/§e§lAllure §rx§a§l Fresh Animations§r§0.zip"]
+resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","file/§e§lAllure§r§0.zip","file/Weskerson\u0027s 3D Items.zip","file/Icons v.1.13.2.zip","file/FreshAnimations_v1.10.4.zip","file/FA+Player-v1.0.zip","file/§e§lAllure §rx§a§l Fresh Animations§r§0.zip"]
