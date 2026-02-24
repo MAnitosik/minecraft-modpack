@@ -45,6 +45,7 @@
 
 ### extra
 - Fix Keyboard on Linux
+- MacOS Input Fixes
 - Controlify (Controller support)
 - FastQuit
 - Language Reload
@@ -59,6 +60,7 @@
 - Sounds
 - Sound Physics Remastered
 - Smooth Scrolling
+- ViaFabricPlus
 
 ### resource packs
 - Fresh Animations
@@ -101,3 +103,6 @@
 - add RP "Visual Effects+" as it updates to 1.21.11
 - use HMI and delete third/first person mods in case third person camera dont get updates (will need to do smth with RPs too in this case)
 - use toon-like shaders instead of bliss shaders
+
+v5.6-d24.02.2026
+(updated + macos + viafabric)
