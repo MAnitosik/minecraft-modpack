@@ -105,4 +105,3 @@
 - use toon-like shaders instead of bliss shaders
 
 v5.6-d24.02.2026
-(updated + macos + viafabric)
