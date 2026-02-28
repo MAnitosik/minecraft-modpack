@@ -57,10 +57,10 @@
 - First-person Model
 - Third Person Camera
 - Reactive Music
-- Sounds
 - Sound Physics Remastered
 - Smooth Scrolling
-- ViaFabricPlus
+- Projectile Trajectory Preview
+- OfflineLAN
 
 ### resource packs
 - Fresh Animations
@@ -102,7 +102,6 @@
 ### unlisted mods (dependencies)
 - YetAnotherConfigLib (YACL) # "Controlify (Controller support)"
 - Collective # "Hide Experimental Warning" and "Village Spawn Point"
-- M.R.U # "Sounds"
 - Text Placeholder API # "Mod Menu"
 - Not Enough Animations # "First-person Model"
 - MidnightLib # "Puzzle"
@@ -111,3 +110,4 @@
 - add RP "Visual Effects+" as it updates to 1.21.11
 - use HMI and delete third/first person mods in case third person camera dont get updates (will need to do smth with RPs too in this case)
 - use toon-like shaders instead of bliss shaders
+- add "Sounds" back as it fixes multiplayer problem for vanilla-players (being needed to download it for external players)
