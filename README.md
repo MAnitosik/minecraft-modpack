@@ -94,10 +94,18 @@
 - Unlock All Recipes
 - Pocket Dimensions
 
-# mods for data packs
+### mods for data packs
 - Hide Experimental Warning
 - No Command Confirm
 - Village Spawn Point
+
+### unlisted mods (dependencies)
+- YetAnotherConfigLib (YACL) # "Controlify (Controller support)"
+- Collective # "Hide Experimental Warning" and "Village Spawn Point"
+- M.R.U # "Sounds"
+- Text Placeholder API # "Mod Menu"
+- Not Enough Animations # "First-person Model"
+- MidnightLib # "Puzzle"
 
 ### todo
 - add RP "Visual Effects+" as it updates to 1.21.11
