@@ -112,3 +112,4 @@
 - use HMI and delete third/first person mods in case third person camera dont get updates (will need to do smth with RPs too in this case)
 - use toon-like shaders instead of bliss shaders
 - add "Sounds" back as it fixes multiplayer problem for vanilla-players (being needed to download it for external players)
+- add "ViaFabricPlus" as it fixes multiplayer error (when you are the host)
