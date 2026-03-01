@@ -77,7 +77,7 @@
 
 ### data packs (downloading them as mods)
 - Terralith
-- Amplified Nether
+- Incendium
 - Nullscape
 - Structory
 - Structory: Towers
@@ -98,6 +98,7 @@
 - Hide Experimental Warning
 - No Command Confirm
 - Village Spawn Point
+- Incendium Biomes Only
 
 ### unlisted mods (dependencies)
 - YetAnotherConfigLib (YACL) # "Controlify (Controller support)"
