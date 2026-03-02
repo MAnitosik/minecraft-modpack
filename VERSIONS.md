@@ -7,6 +7,8 @@ starts with "1.1"
 resets every minecraft version
 Y does not reset when X updates (X and Y do not depend on each other)
 
+date timezone is GMT+3 (Moscow time)
+
 ### changelogs
 
 assets:
