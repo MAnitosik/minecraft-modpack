@@ -1,29 +1,27 @@
-### kernel
-- Fzzy Config
-- Cloth Config API
-- Fabric Language Kotlin
+### core
 - Fabric API
+- Fabric Language Kotlin
 - Mod Menu
 
 ### rendering
-- ImmediatelyFast
-- Better Block Entities
-- Particle Core
 - Sodium
+- ImmediatelyFast
 - Cull Fewer Leaves
 - Entity Culling
+- Better Block Entities
+- Particle Core
 - Ixeris
 
 ### game logic
-- Very Many Players (Fabric)
+- FerriteCore
 - Lithium
+- Fast Noise
 - Concurrent Chunk Management Engine (Fabric)
 - ScalableLux
-- Fast Noise
 - Krypton
-- FerriteCore
-- Alternate Current
+- Very Many Players (Fabric)
 - Immersive Optimization
+- Alternate Current
 
 ### all-in-one
 - ModernFix-mVUS
@@ -32,8 +30,8 @@
 - Sodium Extra
 - Iris Shaders
 - LambDynamicLights - Dynamic Lights
-- Ok Zoomer
-- LambdaBetterGrass
+- Zoomify
+- BetterGrassify
 - Continuity
 - [EMF] Entity Model Features
 - ~~Animatica~~
@@ -100,12 +98,14 @@
 - Village Spawn Point
 - Incendium Biomes Only
 
-### unlisted mods (dependencies)
-- YetAnotherConfigLib (YACL) # "Controlify (Controller support)"
-- Collective # "Hide Experimental Warning" and "Village Spawn Point"
-- Text Placeholder API # "Mod Menu"
-- Not Enough Animations # "First-person Model"
-- MidnightLib # "Puzzle"
+### unlisted mods
+- Text Placeholder API # needed for "Mod Menu"
+- Fzzy Config # needed for "Particle Core"
+- MidnightLib # needed for "Puzzle"
+- YetAnotherConfigLib (YACL) # needed for "Zoomify"
+- Cloth Config API # needed for "FastQuit"
+- Not Enough Animations # needed for "First-person Model"
+- Collective # needed for "Hide Experimental Warning" and "Village Spawn Point"
 
 ### todo
 - add RP "Visual Effects+" as it updates to 1.21.11
