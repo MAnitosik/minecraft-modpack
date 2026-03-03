@@ -1,5 +1,4 @@
 simulationDistance:8
 attackIndicator:2
-vignette:false
 highContrastBlockOutline:true
 resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","file/FA+Player-v1.0.zip","file/§e§lAllure§r§0.zip","file/FreshAnimations_v1.10.4.zip","file/§e§lAllure §rx§a§l Fresh Animations§r§0.zip","file/Icons v.1.13.2.zip","file/Weskerson\u0027s 3D Items.zip"]
