@@ -53,7 +53,6 @@
 - Resourcify
 - Camera Overhaul
 - First-person Model
-- Third Person Camera
 - Reactive Music
 - Sound Physics Remastered
 - Smooth Scrolling
@@ -112,5 +111,3 @@
 - use toon-like shaders instead of bliss shaders
 - add "Sounds" back as it fixes multiplayer problem for vanilla-players (being needed to download it for external players)
 - add "ViaFabricPlus" as it fixes multiplayer error (when you are the host)
-- delete third person mods completely, they work VERY BAD
-- change default bindings, "Zoomify" conficts with "First-person model"
