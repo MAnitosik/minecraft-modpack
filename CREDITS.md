@@ -1,4 +1,3 @@
-- [3rd Person Camera](https://modrinth.com/mod/TlXoWMXc)
 - [Alternate Current](https://modrinth.com/mod/r0v8vy1s)
 - [BBE](https://modrinth.com/mod/ONZm0H7Y)
 - [BetterGrassify](https://modrinth.com/mod/m5T5xmUy)
