@@ -71,6 +71,7 @@
 - Complementary Shaders - Unbound
 - BSL Shaders
 - Bliss Shaders
+- Anti Aliasing (TAA, FXAA)
 
 ### data packs (downloading them as mods)
 - Terralith
@@ -111,3 +112,4 @@
 - use toon-like shaders instead of bliss shaders
 - add "Sounds" back as it fixes multiplayer problem for vanilla-players (being needed to download it for external players)
 - add "ViaFabricPlus" as it fixes multiplayer error (when you are the host)
+- create category "fuck mojang" which contains mods to remove restrictions created by mojang (mods to imlpement: offlinelan, no chat report, no chat resctrictions)
