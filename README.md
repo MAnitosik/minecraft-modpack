@@ -91,6 +91,7 @@
 - Refined Advancements
 - Unlock All Recipes
 - Pocket Dimensions
+- Haul
 
 ### mods for data packs
 - Hide Experimental Warning
