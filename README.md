@@ -51,12 +51,11 @@
 ### experience
 - CList
 - Resourcify
+- Hold My Items
 - Camera Overhaul
-- First-person Model
 - Reactive Music
 - Sound Physics Remastered
 - Smooth Scrolling
-- Projectile Trajectory Preview
 - OfflineLAN
 
 ### resource packs
@@ -65,7 +64,6 @@
 - Allure
 - Allure x Fresh Animations
 - Icons
-- Weskerson's 3D Items
 
 ### shaders
 - Complementary Shaders - Unbound
@@ -105,7 +103,6 @@
 - MidnightLib # needed for "Puzzle"
 - YetAnotherConfigLib (YACL) # needed for "Zoomify"
 - Cloth Config API # needed for "FastQuit"
-- Not Enough Animations # needed for "First-person Model"
 - Collective # needed for "Hide Experimental Warning" and "Village Spawn Point"
 
 ### todo
@@ -114,3 +111,4 @@
 - add "Sounds" back as it fixes multiplayer problem for vanilla-players (being needed to download it for external players)
 - add "ViaFabricPlus" as it fixes multiplayer error (when you are the host)
 - create category "fuck mojang" which contains mods to remove restrictions created by mojang (mods to imlpement: offlinelan, no chat report, no chat resctrictions)
+- add "Weskerson's 3D Items" and "[HMI] Gous's Hand Poses" as soon as weskerson fixes issues with HMI
