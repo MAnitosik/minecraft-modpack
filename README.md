@@ -42,9 +42,9 @@
 - Puzzle
 
 ### extra
+- Controlify (Controller support)
 - Fix Keyboard on Linux
 - MacOS Input Fixes
-- Controlify (Controller support)
 - FastQuit
 - Language Reload
 
