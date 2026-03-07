@@ -23,6 +23,7 @@
 - [FirstPerson](https://modrinth.com/mod/H5XMjpHi)
 - [Fix Keyboard on Linux](https://modrinth.com/mod/siXFh9dn)
 - [Fzzy Config](https://modrinth.com/mod/hYykXjDp)
+- [Haul](https://modrinth.com/mod/EdR8bCZO)
 - [Hide Experimental Warning](https://modrinth.com/mod/Rm4OOdHd)
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci)
 - [Immersive Optimization](https://modrinth.com/mod/vNZgQmjg)
