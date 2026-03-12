@@ -57,6 +57,7 @@
 - Sound Physics Remastered
 - Smooth Scrolling
 - OfflineLAN
+- Sounds
 
 ### resource packs
 - Fresh Animations
@@ -106,12 +107,11 @@
 - MidnightLib # needed for "Puzzle"
 - YetAnotherConfigLib (YACL) # needed for "Zoomify"
 - Cloth Config API # needed for "FastQuit"
+- M.R.U # needed for "Sounds"
 - Collective # needed for "Hide Experimental Warning" and "Village Spawn Point"
 
 ### todo
-- add RP "Visual Effects+" as it updates to 1.21.11
 - use toon-like shaders instead of bliss shaders
-- add "Sounds" back as it fixes multiplayer problem for vanilla-players (being needed to download it for external players)
 - add "ViaFabricPlus" as it fixes multiplayer error (when you are the host)
 - add "Weskerson's 3D Items" and "[HMI] Gous's Hand Poses" as soon as weskerson fixes issues with HMI
 - use "Config Manager"
