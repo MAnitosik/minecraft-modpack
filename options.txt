@@ -1,2 +1,2 @@
 simulationDistance:8
-resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","file/FA+Player-v1.0.zip","file/§e§lAllure§r§0.zip","file/FreshAnimations_v1.10.4.zip","file/§e§lAllure §rx§a§l Fresh Animations§r§0.zip","file/Icons v.1.13.2.zip","holdmyitems:pack_test"]
+resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix","file/§e§lAllure§r§0.zip","file/FreshAnimations_v1.10.4.zip","file/FA+Player-v1.0.zip","file/§e§lAllure §rx§a§l Fresh Animations§r§0.zip","file/Armored Legacy v1.4.1.zip","file/§2Refined Tools 2.2.1.zip","file/Icons v.1.13.2.zip","holdmyitems:pack_test","file/Angel\u0027s_Weather_v1.9.1.2hf.zip"]

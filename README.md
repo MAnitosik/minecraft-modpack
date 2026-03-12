@@ -64,6 +64,9 @@
 - Allure
 - Allure x Fresh Animations
 - Icons
+- Armored Legacy
+- Refined Tools
+- Angel's Weather
 
 ### shaders
 - Complementary Shaders - Unbound
