@@ -58,6 +58,7 @@
 - Smooth Scrolling
 - OfflineLAN
 - Sounds
+- Chat Heads
 
 ### resource packs
 - Fresh Animations
@@ -100,6 +101,7 @@
 - No Command Confirm
 - Village Spawn Point
 - Incendium Biomes Only
+- Remove Stardust Labs Intro Message
 
 ### unlisted mods
 - Text Placeholder API # needed for "Mod Menu"
