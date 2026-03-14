@@ -84,6 +84,7 @@
 - Structory: Towers
 - Explorify
 - Luki's Grand Capitals
+- Luki's Woodland Mansions
 - Luki's Crazy Chambers
 - Dungeons and Taverns Nether Fortress Overhaul
 - Dungeons and Taverns Stronghold Overhaul
