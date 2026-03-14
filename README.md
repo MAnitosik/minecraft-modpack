@@ -102,6 +102,8 @@
 - Village Spawn Point
 - Incendium Biomes Only
 - Remove Stardust Labs Intro Message
+- Improved Village Placement
+- Abridged
 
 ### unlisted mods
 - Text Placeholder API # needed for "Mod Menu"
@@ -110,6 +112,7 @@
 - YetAnotherConfigLib (YACL) # needed for "Zoomify"
 - Cloth Config API # needed for "FastQuit"
 - M.R.U # needed for "Sounds"
+- Lithostitched # needed for "Terralith"
 - Collective # needed for "Hide Experimental Warning" and "Village Spawn Point"
 
 ### todo
