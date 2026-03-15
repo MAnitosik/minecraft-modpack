@@ -74,6 +74,7 @@
 - Complementary Shaders - Unbound
 - BSL Shaders
 - Bliss Shaders
+- Miniature Shader
 - Anti Aliasing (TAA, FXAA)
 
 ### data packs (downloading them as mods)
