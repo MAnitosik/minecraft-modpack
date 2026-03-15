@@ -122,3 +122,4 @@
 - add "Weskerson's 3D Items" and "[HMI] Gous's Hand Poses" as soon as weskerson fixes issues with HMI
 - use "Config Manager"
 - consider adding "Visual effects+" in the future when it updates, probably will need to delete "Angel's Weather"
+- add "https://modrinth.com/mod/rpgstats" when it fixes crash issues
