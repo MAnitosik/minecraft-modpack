@@ -59,6 +59,7 @@
 - OfflineLAN
 - Sounds
 - Chat Heads
+- Fancy World Animations
 
 ### resource packs
 - Fresh Animations
