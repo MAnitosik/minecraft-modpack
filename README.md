@@ -129,3 +129,5 @@
 - consider adding "Visual effects+" in the future when it updates, probably will need to delete "Angel's Weather"
 - add "https://modrinth.com/mod/rpgstats" when it fixes crash issues
 - wait for skywardmc wiki update to add new mods from recent additive versions
+- find an alternative to "Pocket Dimensions"
+- probably remove "Fancy World Animations" because it looks like there is fps regression
