@@ -107,6 +107,9 @@
 - Improved Village Placement
 - Abridged
 
+### modpack utils
+- Config Manager
+
 ### unlisted mods
 - Text Placeholder API # needed for "Mod Menu"
 - Fzzy Config # needed for "Particle Core"
@@ -124,3 +127,4 @@
 - use "Config Manager"
 - consider adding "Visual effects+" in the future when it updates, probably will need to delete "Angel's Weather"
 - add "https://modrinth.com/mod/rpgstats" when it fixes crash issues
+- wait for skywardmc wiki update to add new mods from recent additive versions
