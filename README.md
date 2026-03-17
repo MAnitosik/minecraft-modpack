@@ -15,6 +15,7 @@
 ### game logic
 - FerriteCore
 - Lithium
+- ServerCore
 - Fast Noise
 - Concurrent Chunk Management Engine (Fabric)
 - ScalableLux
