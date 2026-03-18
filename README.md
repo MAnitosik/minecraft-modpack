@@ -131,3 +131,4 @@
 - add "https://modrinth.com/mod/rpgstats" when it fixes crash issues
 - wait for skywardmc wiki update to add new mods from recent additive versions
 - find an alternative to "Pocket Dimensions"
+- remove "#" comments in shaders settings

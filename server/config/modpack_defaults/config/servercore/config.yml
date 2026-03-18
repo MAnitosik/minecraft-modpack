@@ -1,0 +1,5 @@
+features:
+  prevent-moving-into-unloaded-chunks: true
+
+activation-range:
+  enabled: true

@@ -64,6 +64,7 @@
 - [Remove Stardust Labs Intro Message](https://modrinth.com/mod/sk4iFZGy)
 - [Resourcify](https://modrinth.com/mod/RLzHAoZe)
 - [ScalableLux](https://modrinth.com/mod/Ps1zyz6x)
+- [ServerCore](https://modrinth.com/mod/4WWQxlQP)
 - [Skyboxify](https://modrinth.com/mod/DWuwk8aA)
 - [Smooth Scroll](https://modrinth.com/mod/CllP7wW0)
 - [Sodium](https://modrinth.com/mod/AANobbMI)
