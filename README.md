@@ -126,9 +126,10 @@
 - use toon-like shaders instead of bliss shaders
 - add "ViaFabricPlus" as it fixes multiplayer error (when you are the host)
 - add "Weskerson's 3D Items" and "[HMI] Gous's Hand Poses" as soon as weskerson fixes issues with HMI
-- use "Config Manager"
 - consider adding "Visual effects+" in the future when it updates, probably will need to delete "Angel's Weather"
 - add "https://modrinth.com/mod/rpgstats" when it fixes crash issues
 - wait for skywardmc wiki update to add new mods from recent additive versions
 - find an alternative to "Pocket Dimensions"
-- remove "#" comments in shaders settings
+- update modpack (updated mods in prism launcher, didnt post it to the modrinth)
+- create a new logo for modpack
+- add "Hopo Better Ruined Portals" and "Hopo Better Mineshaft"
