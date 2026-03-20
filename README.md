@@ -43,11 +43,13 @@
 - Puzzle
 
 ### extra
+- Fast IP Ping
+- FastQuit
+- Language Reload
+- quick pack
 - Controlify (Controller support)
 - Fix Keyboard on Linux
 - MacOS Input Fixes
-- FastQuit
-- Language Reload
 
 ### experience
 - CList
