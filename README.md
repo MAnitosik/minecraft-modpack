@@ -135,3 +135,4 @@
 - wait for skywardmc wiki update to add new mods from recent additive versions
 - find an alternative to "Pocket Dimensions"
 - add "Nether Weather" when it updates to 1.21.11
+- configure "ModernFix"
