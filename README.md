@@ -136,3 +136,7 @@
 - find an alternative to "Pocket Dimensions"
 - add "Nether Weather" when it updates to 1.21.11
 - configure "ModernFix"
+- add "ThreadTweak"
+- add "Minepedia"
+- add "Advancements Reloaded (AdvancementInfo)"
+- add "Debugify"
