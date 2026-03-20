@@ -86,9 +86,11 @@
 - Structory
 - Structory: Towers
 - Explorify
+- Hopo Better Mineshaft
 - Luki's Grand Capitals
 - Luki's Woodland Mansions
 - Luki's Crazy Chambers
+- Hopo Better Ruined Portals
 - Dungeons and Taverns Nether Fortress Overhaul
 - Dungeons and Taverns Stronghold Overhaul
 - True Ending - Ender Dragon Overhaul
@@ -130,6 +132,4 @@
 - add "https://modrinth.com/mod/rpgstats" when it fixes crash issues
 - wait for skywardmc wiki update to add new mods from recent additive versions
 - find an alternative to "Pocket Dimensions"
-- update modpack (updated mods in prism launcher, didnt post it to the modrinth)
-- create a new logo for modpack
-- add "Hopo Better Ruined Portals" and "Hopo Better Mineshaft"
+- add "Nether Weather" when it updates to 1.21.11

@@ -27,9 +27,11 @@
 - Structory
 - Structory: Towers
 - Explorify
+- Hopo Better Mineshaft
 - Luki's Grand Capitals
 - Luki's Woodland Mansions
 - Luki's Crazy Chambers
+- Hopo Better Ruined Portals
 - Dungeons and Taverns Nether Fortress Overhaul
 - Dungeons and Taverns Stronghold Overhaul
 - True Ending - Ender Dragon Overhaul
