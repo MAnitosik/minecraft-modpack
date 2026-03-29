@@ -63,6 +63,9 @@
 - Sounds
 - Chat Heads
 - Fancy World Animations
+- Just Enough Book
+- Debugify
+- Advancements Reloaded (AdvancementInfo)
 
 ### resource packs
 - Fresh Animations
@@ -82,26 +85,39 @@
 - Anti Aliasing (TAA, FXAA)
 
 ### data packs (downloading them as mods)
+
+World Generation:
 - Terralith
 - Incendium
 - Nullscape
-- Structory
-- Structory: Towers
+
+Structures:
 - Explorify
-- Hopo Better Mineshaft
+- Structory
+
+Villagers|Pillagers Structures:
 - Luki's Grand Capitals
 - Luki's Woodland Mansions
+
+Dungeon Structures:
 - Luki's Crazy Chambers
-- Hopo Better Ruined Portals
+- Hopo Better Mineshaft
+
+Main Story Structures:
 - Dungeons and Taverns Nether Fortress Overhaul
 - Dungeons and Taverns Stronghold Overhaul
+
+Boss Fights:
 - True Ending - Ender Dragon Overhaul
 - Wither's Wrath
+
+Mobs:
 - More Mobs
+- Upgraded Mobs
+
+QoL:
 - Vanilla Refresh
 - Refined Advancements
-- Unlock All Recipes
-- Pocket Dimensions
 - Haul
 
 ### mods for data packs
@@ -135,8 +151,3 @@
 - wait for skywardmc wiki update to add new mods from recent additive versions
 - find an alternative to "Pocket Dimensions"
 - add "Nether Weather" when it updates to 1.21.11
-- configure "ModernFix"
-- add "ThreadTweak"
-- add "Minepedia"
-- add "Advancements Reloaded (AdvancementInfo)"
-- add "Debugify"
