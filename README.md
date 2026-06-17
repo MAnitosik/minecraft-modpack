@@ -1,153 +1,48 @@
 ### core
 - Fabric API
-- Fabric Language Kotlin
 - Mod Menu
+- Fabric Language Kotlin
 
-### rendering
+### base
 - Sodium
+- Lithium
+- FerriteCore
 - ImmediatelyFast
-- Cull Fewer Leaves
+- Iris Shaders
+- More Culling
 - Entity Culling
 - Better Block Entities
 - Particle Core
 - Ixeris
-
-### game logic
-- FerriteCore
-- Lithium
-- ServerCore
+- ModernFix-mVUS
 - Fast Noise
+- Structure Layout Optimizer
+- Immersive Optimization
 - Concurrent Chunk Management Engine (Fabric)
 - ScalableLux
 - Krypton
 - Very Many Players (Fabric)
-- Immersive Optimization
-- Alternate Current
+- quick pack
+- Gnetum
+- Fast IP Ping
+- FastQuit
+- Language Reload
 
-### all-in-one
-- ModernFix-mVUS
-
-### quality-of-life
-- Sodium Extra
-- Iris Shaders
+### additional
 - LambDynamicLights - Dynamic Lights
-- Zoomify
+- Zoomify (Zoom)
 - BetterGrassify
 - Continuity
 - [EMF] Entity Model Features
-- ~~Animatica~~
-- Polytone
+- Sodium Extra
 - OptiGUI
 - Skyboxify
 - [ETF] Entity Texture Features
 - Puzzle
-
-### extra
-- Fast IP Ping
-- FastQuit
-- Language Reload
-- quick pack
 - Controlify (Controller support)
-- Fix Keyboard on Linux
-- MacOS Input Fixes
-
-### experience
-- CList
-- Resourcify
-- Hold My Items
-- Camera Overhaul
-- Reactive Music
-- Sound Physics Remastered
-- Smooth Scrolling
-- OfflineLAN
-- Sounds
-- Chat Heads
-- Fancy World Animations
-- Just Enough Book
-- Debugify
-- Advancements Reloaded (AdvancementInfo)
-
-### resource packs
-- Fresh Animations
-- Fresh Animations: Player Extension
-- Allure
-- Allure x Fresh Animations
-- Icons
-- Armored Legacy
-- Refined Tools
-- Angel's Weather
-
-### shaders
-- Complementary Shaders - Unbound
-- BSL Shaders
-- Bliss Shaders
-- Miniature Shader
-- Anti Aliasing (TAA, FXAA)
-
-### data packs (downloading them as mods)
-
-World Generation:
-- Terralith
-- Incendium
-- Nullscape
-
-Structures:
-- Explorify
-- Structory
-
-Villagers|Pillagers Structures:
-- Luki's Grand Capitals
-- Luki's Woodland Mansions
-
-Dungeon Structures:
-- Luki's Crazy Chambers
-- Hopo Better Mineshaft
-
-Main Story Structures:
-- Dungeons and Taverns Nether Fortress Overhaul
-- Dungeons and Taverns Stronghold Overhaul
-
-Boss Fights:
-- True Ending - Ender Dragon Overhaul
-- Wither's Wrath
-
-Mobs:
-- More Mobs
-- Upgraded Mobs
-
-QoL:
-- Vanilla Refresh
-- Refined Advancements
-- Haul
-
-### mods for data packs
-- Hide Experimental Warning
-- No Command Confirm
-- Village Spawn Point
-- Incendium Biomes Only
-- Remove Stardust Labs Intro Message
-- Improved Village Placement
-- Abridged
-
-### modpack utils
 - Config Manager
 
-### unlisted mods
-- Text Placeholder API # needed for "Mod Menu"
-- Fzzy Config # needed for "Particle Core"
-- MidnightLib # needed for "Puzzle"
-- YetAnotherConfigLib (YACL) # needed for "Zoomify"
-- Cloth Config API # needed for "FastQuit"
-- M.R.U # needed for "Sounds"
-- Lithostitched # needed for "Terralith"
-- Collective # needed for "Hide Experimental Warning" and "Village Spawn Point"
-
-### todo
-- use toon-like shaders instead of bliss shaders
-- add "ViaFabricPlus" as it fixes multiplayer error (when you are the host)
-- add "Weskerson's 3D Items" and "[HMI] Gous's Hand Poses" as soon as weskerson fixes issues with HMI
-- consider adding "Visual effects+" in the future when it updates, probably will need to delete "Angel's Weather"
-- add "https://modrinth.com/mod/rpgstats" when it fixes crash issues
-- wait for skywardmc wiki update to add new mods from recent additive versions
-- find an alternative to "Pocket Dimensions"
-- add "Nether Weather" when it updates to 1.21.11
+### datapacks
+- Stellarity
+- Fortress of War | Nether Fortress Update
+- Explorify
