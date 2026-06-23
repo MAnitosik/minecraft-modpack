@@ -22,7 +22,7 @@
 - Concurrent Chunk Management Engine (Fabric)
 - ScalableLux
 - Very Many Players (Fabric)
-- Immersive Optimization
+- Immersive Optimization (waiting for the update)
 - Sepals (waiting for the update)
 - TT20 (TPS Fixer)
 - Fast IP Ping
