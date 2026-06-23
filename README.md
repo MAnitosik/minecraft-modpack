@@ -87,9 +87,9 @@
 - Fresh Animations: Player Extension
 - Angel's Weather (waiting for the update)
 - Visual Effects+ (waiting for the update)
-- Vanilla Blooming Blocks
-- Reimagined
 - Icons
-- Armored Legacy (waiting for the update)
-- Allure (waiting for the update)
+- Allure
 - Allure x Fresh Animations (waiting for the update)
+
+### planned
+- shine
