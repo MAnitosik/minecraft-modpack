@@ -90,6 +90,3 @@
 - Icons
 - Allure
 - Allure x Fresh Animations (waiting for the update)
-
-### planned
-- shine
