@@ -9,7 +9,7 @@
 - FerriteCore
 - ImmediatelyFast
 - Iris Shaders
-- Krypton
+- Krypton (waiting for the update)
 
 ### additional optimizations
 - More Culling
@@ -54,7 +54,6 @@
 - Fancy World Animations
 - Punchy
 - Smooth Scrolling
-- Reactive Music (waiting for the update)
 - Camera Overhaul (waiting for the update)
 - Chat Heads
 
@@ -64,6 +63,7 @@
 - Improved Village Placement (waiting for the update)
 - Village Spawn Point
 - Hide Experimental Warning
+- Subtly Dungeons
 
 ### datapacks
 - Blooming Biosphere (waiting for the update)
@@ -73,13 +73,11 @@
 - Grim kingdoms: Lost structures & ruins (waiting for the update)
 - Villages Revamped
 - Hopo Better Mineshaft
+- Not Enough Trials
 - Ominous Mansions | Woodland Mansion Update
-- Fortress of War | Nether Fortress Update
 - Refined Advancements (waiting for the update)
 - Very Simple Gravestones
 - Nice Mob Variants
-- Gamingbarn's Zombies (waiting for the update)
-- Wither's Wrath (waiting for the update)
 - Haul
 
 ### RPs
@@ -90,3 +88,8 @@
 - Icons
 - Allure
 - Allure x Fresh Animations (waiting for the update)
+- other allure addons (waiting for the updates)
+
+### TODO
+- add something to Nether, there is nothing to do in Nether
+- make the game HARDER
