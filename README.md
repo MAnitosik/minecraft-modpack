@@ -55,6 +55,7 @@
 - Punchy
 - Smooth Scrolling
 - Camera Overhaul (waiting for the update)
+- Smooth Third Person Camera
 - Chat Heads
 
 ### server-side
@@ -64,6 +65,10 @@
 - Village Spawn Point
 - Hide Experimental Warning
 - Subtly Dungeons
+- No Hostiles Around Campfire
+- Healing Campfire
+- Mineral Chance
+- Ore Harvester
 
 ### datapacks
 - Blooming Biosphere (waiting for the update)
