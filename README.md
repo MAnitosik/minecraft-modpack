@@ -75,7 +75,6 @@
 - Amplified Nether (waiting for the update)
 - Stellarity
 - Explorify
-- Grim kingdoms: Lost structures & ruins (waiting for the update)
 - Villages Revamped
 - Hopo Better Mineshaft
 - Not Enough Trials
