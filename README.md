@@ -90,6 +90,7 @@ https://modrinth.com/modpack/rso
 - Subtly Dungeons
 - Mineral Chance
 - Ore Harvester
+- Emotecraft
 
 ### datapacks
 #### world generation
