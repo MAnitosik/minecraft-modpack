@@ -80,7 +80,6 @@ https://modrinth.com/modpack/rso
 - Particle Rain (waiting for the update)
 - Elytra Contrails Mod
 - Better Mount HUD
-- Perception (waiting for the update)
 - Explosive Enhancement
 
 ### server-side
