@@ -110,6 +110,9 @@ https://modrinth.com/modpack/rso
 - Very Simple Gravestones
 - Nice Mob Variants
 - Haul
+#### Seasonal datapacks
+- The Harvester
+- Smithing Skeletons
 
 ### RPs
 - Fresh Animations
@@ -123,7 +126,6 @@ https://modrinth.com/modpack/rso
 - Allure Dark Theme GUI (waiting for the update)
 
 ### TODO
-- add something to Nether, there is nothing to do in Nether
 - make the game HARDER
 - replace voxelmap with clist or similar mod
 - Sepals (waiting for the update + buggy)
