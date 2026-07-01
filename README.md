@@ -57,7 +57,6 @@ https://modrinth.com/modpack/rso
 ### additional qol
 - AppleSkin
 - Bobby
-- Chat Heads
 - Clumps
 - Flashback
 - LAN World Plug-n-Play (mcwifipnp)
@@ -67,16 +66,22 @@ https://modrinth.com/modpack/rso
 - voxy (waiting for the update)
 
 ### client-side
+- Chat Heads
 - Advancements Reloaded (AdvancementInfo)
 - Fancy Toasts | Better Advancements
-- VoxelMap-Updated (disabled for now)
 - Just Enough Book
 - Sounds
+- Sound Physics Remastered
 - Fancy World Animations
+- Subtle Effects
 - Punchy
 - Smooth Scrolling
 - Camera Overhaul (waiting for the update)
-- Smooth Third Person Camera
+- Particle Rain (waiting for the update)
+- Elytra Contrails Mod
+- Better Mount HUD
+- Perception (waiting for the update)
+- Explosive Enhancement
 
 ### server-side
 - Guard Villagers (Fabric/Quilt)
@@ -123,7 +128,7 @@ https://modrinth.com/modpack/rso
 
 ### TODO
 - make the game HARDER
-- replace voxelmap with clist or similar mod
+- find a mod to place waypoints in the world (and waypoints also should be placed upon death)
 - Sepals (waiting for the update + buggy)
 - C2ME OpenCL Acceleration Module (buggy)
 - add a datapack which overhauls bastion (add the datapack to important structures)
