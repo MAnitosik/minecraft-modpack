@@ -79,7 +79,7 @@ https://modrinth.com/modpack/rso
 - Smooth Third Person Camera
 
 ### server-side
-- Guard Villagers (Fabric/Quilt
+- Guard Villagers (Fabric/Quilt)
 - Village Spawn Point
 - Hide Experimental Warning
 - Subtly Dungeons
