@@ -3,6 +3,8 @@
 - Mod Menu
 - Fabric Language Kotlin
 
+https://prismlauncher.org/wiki/getting-started/install-of-alternatives/#-fabricquilt-mods
+https://mods.tildejustin.dev/
 ### base optimizations
 - Sodium
 - Lithium
@@ -11,17 +13,24 @@
 - Iris Shaders
 - Krypton (waiting for the update)
 
+https://skywardmc.org/adrenaline/
+https://modrinth.com/modpack/optimizationn
 ### additional optimizations
+- Controlify (Controller support)
+- Resourcify
 - More Culling
 - Entity Culling
 - Optimized Block Entities
 - Particle Core (waiting for the update)
+- Ixeris
 - ModernFix-mVUS
+- ServerCore
 - Fast Noise
 - Structure Layout Optimizer
 - Concurrent Chunk Management Engine (Fabric)
 - ScalableLux
 - Very Many Players (Fabric)
+- C2ME OpenCL Acceleration Module
 - Immersive Optimization (waiting for the update)
 - Sepals (waiting for the update)
 - TT20 (TPS Fixer)
@@ -29,24 +38,37 @@
 - FastQuit (waiting for the update)
 - Language Reload
 - quick pack
-
-### qol
 - Sodium Extra
-- Controlify (Controller support)
+- Gnetum
+
+https://skywardmc.org/additive/
+### qol
 - LambDynamicLights - Dynamic Lights
 - Zoomify (Zoom)
 - LambdaBetterGrass
 - Continuity
 - [EMF] Entity Model Features
 - Animatica Refabricated
-- Polytone (waiting for the update)
+- Polytone
 - OptiGUI (waiting for the update)
 - Skyboxify
 - [ETF] Entity Texture Features
 - Puzzle
 
+https://modrinth.com/modpack/rso
+### additional qol
+- AppleSkin
+- Bobby
+- Chat Heads
+- Clumps
+- Flashback
+- LAN World Plug-n-Play (mcwifipnp)
+- More Chat History
+- No Chat Reports
+- Peek
+- voxy (waiting for the update)
+
 ### client-side
-- Resourcify
 - Fancy Toasts | Better Advancements (waiting for the update) 
 - Clist (waiting for the update)
 - Just Enough Book
@@ -56,7 +78,6 @@
 - Smooth Scrolling
 - Camera Overhaul (waiting for the update)
 - Smooth Third Person Camera
-- Chat Heads
 
 ### server-side
 - Guard Villagers (Fabric/Quilt)
