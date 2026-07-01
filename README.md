@@ -69,7 +69,7 @@ https://modrinth.com/modpack/rso
 ### client-side
 - Advancements Reloaded (AdvancementInfo)
 - Fancy Toasts | Better Advancements
-- VoxelMap-Updated
+- VoxelMap-Updated (disabled for now)
 - Just Enough Book
 - Sounds
 - Fancy World Animations
@@ -106,13 +106,12 @@ https://modrinth.com/modpack/rso
 #### Important structures
 - Dungeons and Taverns Nether Fortress Overhaul
 #### Useful datapacks
-- BlazeandCave's Advancements Pack
+- Advancements+
 - Very Simple Gravestones
 - Nice Mob Variants
 - Haul
 #### Seasonal datapacks
 - The Harvester
-- Smithing Skeletons
 
 ### RPs
 - Fresh Animations
