@@ -79,9 +79,7 @@ https://modrinth.com/modpack/rso
 - Smooth Third Person Camera
 
 ### server-side
-- Guard Villagers (Fabric/Quilt)
-- Abridged
-- Improved Village Placement (waiting for the update)
+- Guard Villagers (Fabric/Quilt
 - Village Spawn Point
 - Hide Experimental Warning
 - Subtly Dungeons
@@ -108,7 +106,6 @@ https://modrinth.com/modpack/rso
 #### Useful datapacks
 - Advancements+
 - Very Simple Gravestones
-- Nice Mob Variants
 - Haul
 #### Seasonal datapacks
 - The Harvester
