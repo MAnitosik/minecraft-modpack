@@ -10,7 +10,7 @@ https://mods.tildejustin.dev/
 - Lithium
 - FerriteCore
 - ImmediatelyFast
-- Iris Shaders
+- Iris Shaders (waiting for the update, gives errors with the latest sodium)
 - Krypton (waiting for the update)
 
 https://skywardmc.org/adrenaline/
@@ -30,9 +30,7 @@ https://modrinth.com/modpack/optimizationn
 - Concurrent Chunk Management Engine (Fabric)
 - ScalableLux
 - Very Many Players (Fabric)
-- C2ME OpenCL Acceleration Module
 - Immersive Optimization (waiting for the update)
-- Sepals (waiting for the update)
 - TT20 (TPS Fixer)
 - Fast IP Ping
 - FastQuit (waiting for the update)
@@ -44,13 +42,13 @@ https://modrinth.com/modpack/optimizationn
 https://skywardmc.org/additive/
 ### qol
 - LambDynamicLights - Dynamic Lights
-- Zoomify (Zoom)
+- Ok Zoomer - It's Zoom!
 - LambdaBetterGrass
 - Continuity
 - [EMF] Entity Model Features
 - Animatica Refabricated
 - Polytone
-- OptiGUI (waiting for the update)
+- OptiGUI
 - Skyboxify
 - [ETF] Entity Texture Features
 - Puzzle
@@ -69,8 +67,9 @@ https://modrinth.com/modpack/rso
 - voxy (waiting for the update)
 
 ### client-side
-- Fancy Toasts | Better Advancements (waiting for the update) 
-- Clist (waiting for the update)
+- Advancements Reloaded (AdvancementInfo)
+- Fancy Toasts | Better Advancements
+- VoxelMap-Updated
 - Just Enough Book
 - Sounds
 - Fancy World Animations
@@ -81,26 +80,33 @@ https://modrinth.com/modpack/rso
 
 ### server-side
 - Guard Villagers (Fabric/Quilt)
-- Abridged (waiting for the update)
+- Abridged
 - Improved Village Placement (waiting for the update)
 - Village Spawn Point
 - Hide Experimental Warning
 - Subtly Dungeons
-- No Hostiles Around Campfire
-- Healing Campfire
 - Mineral Chance
 - Ore Harvester
 
 ### datapacks
-- Blooming Biosphere (waiting for the update)
+#### world generation
+- Geophilic
 - Amplified Nether (waiting for the update)
 - Stellarity
 - Explorify
+#### villagers and pillagers
 - Villages Revamped
+- Ominous Mansions | Woodland Mansion Update
+#### Underground structures
+- Dungeons and Taverns Mineshaft Overhaul
 - Hopo Better Mineshaft
 - Not Enough Trials
-- Ominous Mansions | Woodland Mansion Update
-- Refined Advancements (waiting for the update)
+- Dungeons and Taverns Ancient City Overhaul
+- Dungeons and Taverns Ocean Monument Overhaul
+#### Important structures
+- Dungeons and Taverns Nether Fortress Overhaul
+#### Useful datapacks
+- BlazeandCave's Advancements Pack
 - Very Simple Gravestones
 - Nice Mob Variants
 - Haul
@@ -108,13 +114,18 @@ https://modrinth.com/modpack/rso
 ### RPs
 - Fresh Animations
 - Fresh Animations: Player Extension
+- Stellarity Music Addon
 - Angel's Weather (waiting for the update)
 - Visual Effects+ (waiting for the update)
 - Icons
 - Allure
 - Allure x Fresh Animations (waiting for the update)
-- other allure addons (waiting for the updates)
+- Allure Dark Theme GUI (waiting for the update)
 
 ### TODO
 - add something to Nether, there is nothing to do in Nether
 - make the game HARDER
+- replace voxelmap with clist or similar mod
+- Sepals (waiting for the update + buggy)
+- C2ME OpenCL Acceleration Module (buggy)
+- add a datapack which overhauls bastion (add the datapack to important structures)
