@@ -22,7 +22,7 @@ hash = "cbda9db36a2ecc4de61d8efa9701cc59aded9b8d910d50391f7cffe4f628addb"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "315f6bbb6ae9caa6f4e8e14de2099596a855779840bef0ea17595217e0bd317b"
+hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
 
 [[files]]
 file = "config/modmenu.json"
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "3e31adfcc67e7c5cdc875e566523a10ea224f9e73c10e1345d45ec882cf32520"
+hash = "f7158dc1c575bea519a5df2c485b34c22d649d7384fcbcd4bace1689f47da8fa"
 metafile = true
 
 [[files]]
@@ -459,11 +459,6 @@ metafile = true
 [[files]]
 file = "mods/tt20.pw.toml"
 hash = "7c31a908b2309d573163326b564a797d28fb7c0c15e18c29d61c930b3adafb27"
-metafile = true
-
-[[files]]
-file = "mods/village-spawn-point.pw.toml"
-hash = "c17f942505ae1c555ec558b39f17683aa88bf21fd1447bc5bb342b619eea73f2"
 metafile = true
 
 [[files]]
