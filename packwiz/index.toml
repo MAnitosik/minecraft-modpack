@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/controlify.json"
+hash = "a3e6408e5d8eee27488b01aaf6a0bc428901de0ba803521d32cce892a051a770"
+
+[[files]]
+file = "config/fastquit.toml"
+hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
+
+[[files]]
+file = "config/iris.properties"
+hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
+
+[[files]]
+file = "config/lambdabettergrass.toml"
+hash = "cbda9db36a2ecc4de61d8efa9701cc59aded9b8d910d50391f7cffe4f628addb"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "86dbb0dbd0c7fa9ba69081a01daaffa33e61110aa8f84ff93a747c39eb8be6a2"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "1c6b1c5aec65d84644ed91769e2f53a2a966e82494055836177835002c49e4f9"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "244a5a217b4604782a66736cae23717c7871acd0e2bbd51dc2b28e4b642885f2"
+
+[[files]]
 file = "mods/advancements+.pw.toml"
 hash = "2c88b4d34365c8f9319cd0715bf9ec5a09a21aa8104e4f882402558511a86919"
 metafile = true
