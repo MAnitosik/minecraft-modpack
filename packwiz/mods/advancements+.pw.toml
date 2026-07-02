@@ -1,0 +1,13 @@
+name = "Advancements+"
+filename = "advancements+-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dzG7pw5M/versions/52EqGmI6/advancements%2B-1.5.1.jar"
+hash-format = "sha512"
+hash = "b4d0b9a8f99f03a0f0cb93b7bb32dec31a1b08bebce74f3303d914cbc1c3bb51a5e02b168308f75fb7b13366632d79b9fe7567d683b0bbf86a0cc677cc5f963d"
+
+[update]
+[update.modrinth]
+mod-id = "dzG7pw5M"
+version = "52EqGmI6"

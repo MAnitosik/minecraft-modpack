@@ -1,0 +1,13 @@
+name = "Fancy Toasts | Better Advancements"
+filename = "fancytoasts-fabric-26.2.x-1.4.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eUziWqPC/versions/UOleWTHh/fancytoasts-fabric-26.2.x-1.4.7.jar"
+hash-format = "sha512"
+hash = "6c5c97b92a60b5c0dcc2ff9ef375cdcf4a3b188ec53c1fc377a22ced59fe02e1061465059ae9690a98158a6ab3c8beeb40461e2e1fb2996effab60a3cb7160f4"
+
+[update]
+[update.modrinth]
+mod-id = "eUziWqPC"
+version = "UOleWTHh"

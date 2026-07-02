@@ -1,0 +1,13 @@
+name = "CATpack"
+author = "MAnitosik"
+version = "v1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "51587219b284b8baf373f5b4ebeeb638bfa65973d4b94fcf8bb8406ec0b66507"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"

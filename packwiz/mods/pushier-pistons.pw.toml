@@ -1,0 +1,13 @@
+name = "Pushier Pistons"
+filename = "PushierPistons-1.0-mc26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eIcHtprZ/versions/laHFTSdt/PushierPistons-1.0-mc26.2.jar"
+hash-format = "sha512"
+hash = "5743dacf6505fcc41784ed248a8aae60ff7934f17890e18e70a94eb8c6f5709041f7546e0c97135d52fd77a28f94585b694948c604f4e2e5995b97745c441bcd"
+
+[update]
+[update.modrinth]
+mod-id = "eIcHtprZ"
+version = "laHFTSdt"

@@ -76,7 +76,7 @@ https://modrinth.com/modpack/rso
 - Fancy World Animations
 - Subtle Effects
 - Glowtone: Shaderless Shaders
-- Punchy
+- Punchy!
 - Smooth Scrolling
 - Camera Overhaul (waiting for the update)
 - Particle Rain (waiting for the update)

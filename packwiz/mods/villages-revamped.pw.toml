@@ -1,0 +1,13 @@
+name = "Villages Revamped"
+filename = "villages-revamped-v2.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qtOzkQyw/versions/u3gyRGvX/villages-revamped-v2.9.jar"
+hash-format = "sha512"
+hash = "2307bf40fe83769ec2c240f8d96015cc05c6982c2ce518d5339cb27341b8a8c936ead348054dcd1d91b0596c02f69b1ddf8481cf2053c5c292dec910b1aeb992"
+
+[update]
+[update.modrinth]
+mod-id = "qtOzkQyw"
+version = "u3gyRGvX"
