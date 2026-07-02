@@ -92,7 +92,6 @@ https://modrinth.com/modpack/frozenblock + other mods
 ### big gameplay changes
 #### overhauls
 - Geophilic
-- Trailier Tales
 - The Copperier Age: Copperier Copper
 - Pushier Pistons
 - Simple Copper Pipes
