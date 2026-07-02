@@ -2,3 +2,5 @@
 - https://modrinth.com/modpack/adrenaline 
 - https://modrinth.com/modpack/optimizationn
 - https://mc.sr/mods/
+- https://modrinth.com/modpack/frozenblock
+- https://modrinth.com/modpack/rso

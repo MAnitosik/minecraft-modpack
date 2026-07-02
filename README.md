@@ -15,9 +15,9 @@ https://mods.tildejustin.dev/
 
 https://skywardmc.org/adrenaline/
 https://modrinth.com/modpack/optimizationn
+https://modrinth.com/modpack/frozenblock
+https://modrinth.com/modpack/rso
 ### additional optimizations
-- Controlify (Controller support)
-- Resourcify
 - More Culling
 - Entity Culling
 - Optimized Block Entities
@@ -38,9 +38,13 @@ https://modrinth.com/modpack/optimizationn
 - quick pack
 - Sodium Extra
 - Gnetum
+- Alternate Current
+- Clumps
 
 https://skywardmc.org/additive/
 ### qol
+- Controlify (Controller support)
+- Resourcify
 - LambDynamicLights - Dynamic Lights
 - Ok Zoomer - It's Zoom!
 - LambdaBetterGrass
@@ -57,15 +61,12 @@ https://modrinth.com/modpack/rso
 ### additional qol
 - AppleSkin
 - Bobby
-- Clumps
-- Flashback
 - LAN World Plug-n-Play (mcwifipnp)
 - More Chat History
 - No Chat Reports
 - Peek
-- voxy (waiting for the update)
 
-### client-side
+### small gameplay changes
 - Chat Heads
 - Advancements Reloaded (AdvancementInfo)
 - Fancy Toasts | Better Advancements
@@ -74,6 +75,7 @@ https://modrinth.com/modpack/rso
 - Sound Physics Remastered
 - Fancy World Animations
 - Subtle Effects
+- Glowtone: Shaderless Shaders
 - Punchy
 - Smooth Scrolling
 - Camera Overhaul (waiting for the update)
@@ -81,24 +83,26 @@ https://modrinth.com/modpack/rso
 - Elytra Contrails Mod
 - Better Mount HUD
 - Explosive Enhancement
-
-### server-side
-- Guard Villagers (Fabric/Quilt)
 - Village Spawn Point
 - Hide Experimental Warning
 - Subtly Dungeons
 - Mineral Chance
 - Ore Harvester
-- Emotecraft
 
-### datapacks
-#### world generation
-- Geophilic
+https://modrinth.com/modpack/frozenblock + other mods
+### big gameplay changes
+#### overhauls
+- Wilder Wild
+- Trailier Tales
+- The Copperier Age: Copperier Copper
+- Pushier Pistons
+- Simple Copper Pipes
 - Amplified Nether (waiting for the update)
 - Stellarity
 - Explorify
 #### villagers and pillagers
 - Villages Revamped
+- Guard Villagers (Fabric/Quilt)
 - Ominous Mansions | Woodland Mansion Update
 #### Underground structures
 - Dungeons and Taverns Mineshaft Overhaul
@@ -112,15 +116,12 @@ https://modrinth.com/modpack/rso
 - Advancements+
 - Very Simple Gravestones
 - Haul
-#### Seasonal datapacks
-- The Harvester
 
 ### RPs
 - Fresh Animations
 - Fresh Animations: Player Extension
 - Stellarity Music Addon
 - Angel's Weather (waiting for the update)
-- Visual Effects+ (waiting for the update)
 - Icons
 - Allure
 - Allure x Fresh Animations (waiting for the update)
@@ -132,3 +133,4 @@ https://modrinth.com/modpack/rso
 - Sepals (waiting for the update + buggy)
 - C2ME OpenCL Acceleration Module (buggy)
 - add a datapack which overhauls bastion (add the datapack to important structures)
+- voxy (include when it is ready for regular usage)
