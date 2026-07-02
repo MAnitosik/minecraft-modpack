@@ -75,7 +75,6 @@ https://modrinth.com/modpack/rso
 - Sound Physics Remastered
 - Fancy World Animations
 - Subtle Effects
-- Glowtone: Shaderless Shaders
 - Punchy!
 - Smooth Scrolling
 - Camera Overhaul (waiting for the update)
@@ -83,21 +82,22 @@ https://modrinth.com/modpack/rso
 - Elytra Contrails Mod
 - Better Mount HUD
 - Explosive Enhancement
-- Village Spawn Point
 - Hide Experimental Warning
 - Subtly Dungeons
+- Visual Workbench
 - Mineral Chance
 - Ore Harvester
 
 https://modrinth.com/modpack/frozenblock + other mods
 ### big gameplay changes
 #### overhauls
-- Wilder Wild
+- Geophilic
 - Trailier Tales
 - The Copperier Age: Copperier Copper
 - Pushier Pistons
 - Simple Copper Pipes
 - Amplified Nether (waiting for the update)
+- Eternal Nether
 - Stellarity
 - Explorify
 #### villagers and pillagers
@@ -112,7 +112,7 @@ https://modrinth.com/modpack/frozenblock + other mods
 - Dungeons and Taverns Ocean Monument Overhaul
 #### Important structures
 - Dungeons and Taverns Nether Fortress Overhaul
-#### Useful datapacks
+#### Useful utilities
 - Advancements+
 - Very Simple Gravestones
 - Haul

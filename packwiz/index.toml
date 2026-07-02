@@ -152,6 +152,11 @@ hash = "4c67dcaac16f11a5d90dfeb2d1e6bfaabca6ff5b912c566970330c005797e2ea"
 metafile = true
 
 [[files]]
+file = "mods/eternal-nether.pw.toml"
+hash = "49f436bb5c83452f6eb49f7a29f3b1dcfaa06606bbad75ba85c1a0081fb661ef"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "6adce6422e74091638dbd7872270ee58d9a22dc18340580f809cc50c739e0d4f"
 metafile = true
@@ -187,6 +192,11 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "8c91080e610d7c8c40ae6445d36af1cf591fe1ebf70718b3e6d4714232b23592"
+metafile = true
+
+[[files]]
 file = "mods/frozenlib.pw.toml"
 hash = "d8fd885bbe9150f8cd6ed61187ca43ad952cd37d9876d242f88a097f704ae459"
 metafile = true
@@ -202,8 +212,8 @@ hash = "289599ac70b0f0a9a0055f1bd10fb7e2c38c540c3ef49db8779c5c3988a7455c"
 metafile = true
 
 [[files]]
-file = "mods/glowtone.pw.toml"
-hash = "f2d445fc54e722df0c0af22d98e9c372f6fba449be8b797111a0826758d60842"
+file = "mods/geophilic.pw.toml"
+hash = "e56f8bbfe55aa00d09e341913cba870fb6218fba8df4a136f2443705982bce1f"
 metafile = true
 
 [[files]]
@@ -367,6 +377,11 @@ hash = "92b8b681374fa78077bbe9612ef5d44569f31985d78ebe8b664f6a985bf9cfee"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "b9a63e882013d882c9b63a348c2a8cdc39dba9b5f168612e69d10b2afa148676"
+metafile = true
+
+[[files]]
 file = "mods/quick-pack.pw.toml"
 hash = "95616e51ef77b65b736da99639df10f2d93223c59f260cf05777b7fa91c00e08"
 metafile = true
@@ -467,13 +482,13 @@ hash = "8677342227e3870add97339f67a4a939e8304d213b12b22f47c3c5f7e148724e"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "9d2d6dfc69a39361bb5d9e30c6c35c2ca7b8121ac0b66fad29bcfa81c40b0738"
+file = "mods/visual-workbench.pw.toml"
+hash = "93e9e9d96cc2aceebf8625a7a893071f81011f54bf14e4ca802f4b41723184c0"
 metafile = true
 
 [[files]]
-file = "mods/wilder-wild.pw.toml"
-hash = "3079498253cbfb08acf7e56ec706c7df34e6081af72ed0f5b033afa57c9ef5dd"
+file = "mods/vmp-fabric.pw.toml"
+hash = "9d2d6dfc69a39361bb5d9e30c6c35c2ca7b8121ac0b66fad29bcfa81c40b0738"
 metafile = true
 
 [[files]]
