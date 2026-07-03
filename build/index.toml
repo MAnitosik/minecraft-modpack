@@ -97,6 +97,11 @@ hash = "8b3bbd261c8e3692775873b9c470cb6f7c9a21d96a3eac7a3e7ff7bc8b39ba32"
 metafile = true
 
 [[files]]
+file = "mods/configmanager.pw.toml"
+hash = "404b2ef9032434f6b0c7d70920c557f06b774a0455325481e1b7304eaf03934e"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "57ec34a7f37b99e4638f5214d1de0bef916e981743d3648c57cad1e8e399982b"
 metafile = true
@@ -129,6 +134,16 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
 hash = "31c5c69d943ff30b43974c6f392541b07ca8b4987bf85cee6092159e10ebe8c5"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "0527624ddafeb54dee9724eb4f34907ee940f567b92a8f60f39063a7d3b09d8b"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "96f4549a875c31caaf5bbacd9d89df51ecbe13947378e45b92e5211a2798ca86"
 metafile = true
 
 [[files]]
@@ -514,6 +529,21 @@ metafile = true
 [[files]]
 file = "resourcepacks/allure-pack.pw.toml"
 hash = "c7fd88453b4feafb9214a0404671362e3947cf3768b93b4f7ff93b12698e7332"
+metafile = true
+
+[[files]]
+file = "resourcepacks/armored-legacy.pw.toml"
+hash = "54fb4a35c31043c6d0c401b45428b9ab2e17b32bfd8a6cf67adf434985a077ae"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchantment-glows.pw.toml"
+hash = "fc95664ddcae1350a87074fab90e5c5625fe86d54881e9a3fd1398f923a45281"
+metafile = true
+
+[[files]]
+file = "resourcepacks/extended-illumina.pw.toml"
+hash = "8c3cca415579e28117e5e326a89a0cc51c87d34eba3ff6adbf9f2340f12778c6"
 metafile = true
 
 [[files]]

@@ -97,6 +97,8 @@ https://modrinth.com/modpack/frozenblock + other mods
 - The Copperier Age: Copperier Copper
 - Pushier Pistons
 - Simple Copper Pipes
+- Easy Anvils
+- Easy Magic
 - Amplified Nether (waiting for the update)
 - Eternal Nether
 - Stellarity
@@ -122,6 +124,9 @@ https://modrinth.com/modpack/frozenblock + other mods
 - Abridged
 
 ### RPs
+- Armored Legacy
+- Extended illumina (3D lantern and torch)
+- Enchantment Glows
 - Fresh Animations
 - Fresh Animations: Player Extension
 - Stellarity Music Addon

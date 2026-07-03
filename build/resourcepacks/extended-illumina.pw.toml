@@ -1,0 +1,13 @@
+name = "Extended illumina (3D lantern and torch)"
+filename = "§eExtended_Illumina_26.2.x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qznifDTe/versions/I71Mop8a/%C2%A7eExtended_Illumina_26.2.x.zip"
+hash-format = "sha512"
+hash = "b73fc4923c6aee06f366ac58d51ccc41b6d7fd4abfb102fdd275d01cd21d1492862cdc617589da4c549c63d773d574fcb999ea7ebf5b3e932c633398aaabaf1f"
+
+[update]
+[update.modrinth]
+mod-id = "qznifDTe"
+version = "I71Mop8a"
