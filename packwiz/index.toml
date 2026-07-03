@@ -37,6 +37,11 @@ file = "config/vmp.properties"
 hash = "244a5a217b4604782a66736cae23717c7871acd0e2bbd51dc2b28e4b642885f2"
 
 [[files]]
+file = "mods/abridged.pw.toml"
+hash = "e355748dff546318cc70361cb865c483f57ac13566a23c6e76c528e0d558d264"
+metafile = true
+
+[[files]]
 file = "mods/advancements+.pw.toml"
 hash = "2c88b4d34365c8f9319cd0715bf9ec5a09a21aa8104e4f882402558511a86919"
 metafile = true
@@ -197,6 +202,11 @@ hash = "8c91080e610d7c8c40ae6445d36af1cf591fe1ebf70718b3e6d4714232b23592"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "24449de987bbf39809c70f9aff0b35e9b7b0c98d3bb737c9fad64d3bfc439531"
+metafile = true
+
+[[files]]
 file = "mods/frozenlib.pw.toml"
 hash = "d8fd885bbe9150f8cd6ed61187ca43ad952cd37d9876d242f88a097f704ae459"
 metafile = true
@@ -209,11 +219,6 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "289599ac70b0f0a9a0055f1bd10fb7e2c38c540c3ef49db8779c5c3988a7455c"
-metafile = true
-
-[[files]]
-file = "mods/geophilic.pw.toml"
-hash = "e56f8bbfe55aa00d09e341913cba870fb6218fba8df4a136f2443705982bce1f"
 metafile = true
 
 [[files]]
@@ -277,6 +282,11 @@ hash = "d655305d7933a11ed9c0c8edb57868c053b9c995c121c00b47061cf0e098c92a"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "3cdd41b32d80fbf7bdb15df362d6c5d4669ad941edd2ed42cb77e8ac0087514b"
+metafile = true
+
+[[files]]
 file = "mods/mcwifipnp.pw.toml"
 hash = "e9da7f7c7c7c1d1a1aff70fa9f65a009d24eb5e3e0cb138b05981d577d3d5d2f"
 metafile = true
@@ -288,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "ca48f91f6b339797f8186d7adbb60581afac53f1a073f116fb4b1c08a29fa31b"
+hash = "ba528e27fc27b75a1997936bba35cf7d14c4d4d203aab5c067d5ec3ffcd0cfb6"
 metafile = true
 
 [[files]]
@@ -323,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "f7158dc1c575bea519a5df2c485b34c22d649d7384fcbcd4bace1689f47da8fa"
+hash = "5d4d68b3316eb25f72899fe0ea5955338efaf6a31a22f25e6cdc7ffa2409cbcc"
 metafile = true
 
 [[files]]
@@ -389,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "a8d92e3a2cf956cfa5932d3324a219729fe549fbcc3992c75b54d6b345178389"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "aa810cd00645921dcaa52bf6c41a8af844b2477cd01506bdeb337f9dd7342f14"
 metafile = true
 
 [[files]]
@@ -459,6 +474,11 @@ metafile = true
 [[files]]
 file = "mods/subtly-dungeons.pw.toml"
 hash = "66e2f8e0b7f9054299cb21d5bd33806faf3cf4734df770b674e61df7c24cf3de"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "46fd88dc19bdf6cbe3032f32f9f67e6f3b91709c606faac86b0bbe40f011af9e"
 metafile = true
 
 [[files]]

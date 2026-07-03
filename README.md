@@ -83,15 +83,17 @@ https://modrinth.com/modpack/rso
 - Better Mount HUD
 - Explosive Enhancement
 - Hide Experimental Warning
-- Subtly Dungeons
 - Visual Workbench
 - Mineral Chance
 - Ore Harvester
 
 https://modrinth.com/modpack/frozenblock + other mods
 ### big gameplay changes
+### vanilla-like
+- Subtly Dungeons
+- Friends&Foes (Fabric/Quilt)
 #### overhauls
-- Geophilic
+- Terralith
 - The Copperier Age: Copperier Copper
 - Pushier Pistons
 - Simple Copper Pipes
@@ -101,6 +103,7 @@ https://modrinth.com/modpack/frozenblock + other mods
 - Explorify
 #### villagers and pillagers
 - Villages Revamped
+- Improved Village Placement (waiting for the update)
 - Guard Villagers (Fabric/Quilt)
 - Ominous Mansions | Woodland Mansion Update
 #### Underground structures
@@ -115,6 +118,7 @@ https://modrinth.com/modpack/frozenblock + other mods
 - Advancements+
 - Very Simple Gravestones
 - Haul
+- Abridged
 
 ### RPs
 - Fresh Animations
@@ -127,7 +131,6 @@ https://modrinth.com/modpack/frozenblock + other mods
 - Allure Dark Theme GUI (waiting for the update)
 
 ### TODO
-- make the game HARDER
 - find a mod to place waypoints in the world (and waypoints also should be placed upon death)
 - Sepals (waiting for the update + buggy)
 - C2ME OpenCL Acceleration Module (buggy)
