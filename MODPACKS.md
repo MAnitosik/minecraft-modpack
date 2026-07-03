@@ -2,5 +2,6 @@
 - https://modrinth.com/modpack/adrenaline 
 - https://modrinth.com/modpack/optimizationn
 - https://mc.sr/mods/
+- https://prismlauncher.org/wiki/getting-started/install-of-alternatives/#-fabricquilt-mods
 - https://modrinth.com/modpack/frozenblock
 - https://modrinth.com/modpack/rso
