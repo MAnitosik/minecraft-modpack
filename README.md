@@ -103,6 +103,7 @@ https://modrinth.com/modpack/frozenblock + other mods
 - Explorify
 #### villagers and pillagers
 - Villages Revamped
+- Village Masquerade
 - Improved Village Placement (waiting for the update)
 - Guard Villagers (Fabric/Quilt)
 - Ominous Mansions | Woodland Mansion Update
