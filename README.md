@@ -105,7 +105,7 @@ https://modrinth.com/modpack/frozenblock + other mods
 - Villages Revamped
 - Village Masquerade
 - Improved Village Placement (waiting for the update)
-- Guard Villagers (Fabric/Quilt)
+- Guard Villagers (Fabric/Quilt) (waiting for the update, conflicts with c2me)
 - Ominous Mansions | Woodland Mansion Update
 #### Underground structures
 - Dungeons and Taverns Mineshaft Overhaul
@@ -116,7 +116,7 @@ https://modrinth.com/modpack/frozenblock + other mods
 #### Important structures
 - Dungeons and Taverns Nether Fortress Overhaul
 #### Useful utilities
-- Advancements+
+- Advancements+ (waiting for the update, creates error messages)
 - Very Simple Gravestones
 - Haul
 - Abridged
