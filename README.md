@@ -66,6 +66,7 @@ https://modrinth.com/modpack/rso
 - No Chat Reports
 - Peek
 
+https://modrinth.com/modpack/rso + other mods
 ### small gameplay changes
 - Chat Heads
 - Advancements Reloaded (AdvancementInfo)
