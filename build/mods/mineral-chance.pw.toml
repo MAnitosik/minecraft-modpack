@@ -1,0 +1,13 @@
+name = "Mineral Chance"
+filename = "mineralchance-26.2.0-3.9.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bu1hACOl/versions/cZsaL1p9/mineralchance-26.2.0-3.9.jar"
+hash-format = "sha512"
+hash = "5a077022a2e7689a7370bb7bd5190b9ba9facf7add67c480e0ee1227b2276e3d278af012b5987eb375c7a0f8d59cdec691aa9d8cd929d2bff6c94e837df7397f"
+
+[update]
+[update.modrinth]
+mod-id = "bu1hACOl"
+version = "cZsaL1p9"
