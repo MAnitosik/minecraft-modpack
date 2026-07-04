@@ -5,3 +5,4 @@
 - https://prismlauncher.org/wiki/getting-started/install-of-alternatives/#-fabricquilt-mods
 - https://modrinth.com/modpack/frozenblock
 - https://modrinth.com/modpack/rso
+- https://modrinth.com/modpack/simply-optimized-forked

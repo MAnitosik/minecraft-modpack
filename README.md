@@ -17,6 +17,7 @@ https://skywardmc.org/adrenaline/
 https://modrinth.com/modpack/optimizationn
 https://modrinth.com/modpack/frozenblock
 https://modrinth.com/modpack/rso
+https://modrinth.com/modpack/simply-optimized-forked
 ### additional optimizations
 - More Culling
 - Entity Culling
@@ -40,6 +41,9 @@ https://modrinth.com/modpack/rso
 - Gnetum
 - Alternate Current
 - Clumps
+- Async Logger
+- BadOptimizations
+- Oxidizium
 
 https://skywardmc.org/additive/
 ### qol
@@ -143,3 +147,4 @@ https://modrinth.com/modpack/frozenblock + other mods
 - C2ME OpenCL Acceleration Module (buggy)
 - add a datapack which overhauls bastion (add the datapack to important structures)
 - voxy (include when it is ready for regular usage)
+- Async (buggy)
