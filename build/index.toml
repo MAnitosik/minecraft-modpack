@@ -102,7 +102,7 @@ hash = "47e4810bca56258fe2ba501bd8872a59dd40433c202276f73c4e958563e0fe34"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "cec4c1bb02db2bdf01fbc0ce39c5e3ef7c5f7c34a084a8d1e7f3cf83627afdae"
+hash = "21b5b43e68386006e8cd3eb1a5a5cdf62550c5c99b09f48b84a99ef72eb70e6a"
 
 [[files]]
 file = "mods/abridged.pw.toml"
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/animaticarefabricated.pw.toml"
-hash = "4b91dc58697b1aed44f91c9e5b90980ff96092f5881eff34a21a09fb1c4f1277"
+hash = "98f51845428b241d43adfa7da330b1a4b8a842ad708ca4382a3ce3ffc3d6fb23"
 metafile = true
 
 [[files]]
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "51e3a1ac963e190be376e72b24d4e8f772129ee1234e43ec92c113660786cf0b"
+hash = "00129db538fe3591d87ba64731ca1f9daf3e538185657ee0fcf56b52f0715e5b"
 metafile = true
 
 [[files]]
@@ -456,12 +456,12 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "96c556eb683ad85a821eebefa6e2bda132c9fc946b530b7a8cc104b4bdb76220"
+hash = "160f083790c74c3feb6e6b42fe03ff9d85487ed533a76be907deeceaa56a6c3a"
 metafile = true
 
 [[files]]
 file = "mods/punchy-fpa.pw.toml"
-hash = "b59499f7a8c77812e37cd67ffa2044845e5d3ee5efdd5594410dfe1ee10d378c"
+hash = "d2e4ffbb2cc32ff245e00f38fcc191e6c8ad85c88dd5ba6e0c186fa7a4f2deff"
 metafile = true
 
 [[files]]
@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "8635a6f88d0f0e9487299a0da5507bb9f1685969a8b02772efdba6df3d9c0afa"
+hash = "3392508587c2cc0bf99ba82fcb02936d0d8d636537237d6aa12ae30cb03c4522"
 metafile = true
 
 [[files]]
@@ -606,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "17986da5ffb8dab0c7ad9e837b3e88a6b63b8c96658d28936b746d137c99af57"
+hash = "d4e188553ece0d239c00bafb42c7d144ffc0b331b0c1f32019d35a8d9cdce531"
 metafile = true
 
 [[files]]
