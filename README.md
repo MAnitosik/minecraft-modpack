@@ -148,3 +148,4 @@ https://modrinth.com/modpack/frozenblock + other mods
 - add a datapack which overhauls bastion (add the datapack to important structures)
 - voxy (include when it is ready for regular usage)
 - Async (buggy)
+- add better combat mod
