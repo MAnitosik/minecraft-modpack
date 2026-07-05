@@ -149,3 +149,4 @@ https://modrinth.com/modpack/frozenblock + other mods
 - voxy (include when it is ready for regular usage)
 - Async (buggy)
 - add better combat mod
+- Potatoptimize (test it)
