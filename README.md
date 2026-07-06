@@ -38,12 +38,14 @@ https://modrinth.com/modpack/simply-optimized-forked
 - Language Reload
 - quick pack
 - Sodium Extra
+- AsyncParticles
 - Gnetum
 - Alternate Current
 - Clumps
 - Async Logger
 - BadOptimizations
 - Oxidizium
+- Potatoptimize
 
 https://skywardmc.org/additive/
 ### qol
@@ -149,4 +151,4 @@ https://modrinth.com/modpack/frozenblock + other mods
 - voxy (include when it is ready for regular usage)
 - Async (buggy)
 - add better combat mod
-- Potatoptimize (test it)
+- Faster Iris Shadow Mapper

@@ -135,6 +135,11 @@ hash = "af03e16b5258f172ef87809640fe3833a78b14b418828db6088248a9bc381626"
 metafile = true
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "c4e213871e8a3b345f98ea54c850a0150ec227df7676ddff9c84bb527415dc0b"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "3635aff985b59e95eabf5ca9be77d20d25c9d4e2b20f97df42639ea794eda1f3"
 metafile = true
@@ -151,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "497421d9c7549e8a1cbb08d9102ccbc48695aa96834daca398a5c1498670422a"
+hash = "951f09d189fbcf17b4cde0524e9cd1e37da9a3c666fa47606ca61b55ec1c287e"
 metafile = true
 
 [[files]]
@@ -341,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/justenoughbook.pw.toml"
-hash = "c9d290b464ab6e9e44ec53fc70495135d7c0e7e4d131499c78ee7c97aac54103"
+hash = "74d14bba78033d99b384de2070990e9cf9250ba35c7f77e3aabd0c2b59efbf1d"
 metafile = true
 
 [[files]]
@@ -366,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "3cdd41b32d80fbf7bdb15df362d6c5d4669ad941edd2ed42cb77e8ac0087514b"
+hash = "116e9509fc5f1001b639e925c2554ea68f418e3c2538f48023ef315f208c5b00"
 metafile = true
 
 [[files]]
@@ -401,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "6131a5b737f518af6131c8a9f8016d9a3274696e2e9c6d02210cf58286ab4aa5"
+hash = "e7a970741eacd22d162ddc2dfeffae05bd28ba71fbfe09ecaf2fded78d9d0089"
 metafile = true
 
 [[files]]
@@ -457,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "160f083790c74c3feb6e6b42fe03ff9d85487ed533a76be907deeceaa56a6c3a"
+metafile = true
+
+[[files]]
+file = "mods/potatoptimize.pw.toml"
+hash = "c94d948d17545db0291827ae43fed4596d0f63079f2b47db7dedb25c8b46805f"
 metafile = true
 
 [[files]]
@@ -531,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "56122ab395de07f5f6feefcef4e7688ac01a91ae152f81697472a124209616a7"
+hash = "9c0841e3426cc58863e4c883f191329334940827d87615fd7c7484547861d867"
 metafile = true
 
 [[files]]
