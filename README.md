@@ -90,15 +90,15 @@ https://modrinth.com/modpack/rso + other mods
 - Better Mount HUD
 - Explosive Enhancement
 - Hide Experimental Warning
-- Visual Workbench
-- Mineral Chance
-- Ore Harvester
 
 https://modrinth.com/modpack/frozenblock + other mods
 ### big gameplay changes
 ### vanilla-like
 - Subtly Dungeons
 - Friends&Foes (Fabric/Quilt)
+- Visual Workbench
+- Mineral Chance
+- Ore Harvester
 #### overhauls
 - Terralith
 - The Copperier Age: Copperier Copper
