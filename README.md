@@ -120,8 +120,6 @@ https://modrinth.com/modpack/frozenblock + other mods
 #### villagers and pillagers
 - Villages Revamped
 - Village Masquerade
-- Improved Village Placement (waiting for the update)
-- Guard Villagers (Fabric/Quilt) (waiting for the update, conflicts with c2me)
 - Ominous Mansions | Woodland Mansion Update
 #### Underground structures
 - Dungeons and Taverns Mineshaft Overhaul
@@ -151,7 +149,6 @@ https://modrinth.com/modpack/frozenblock + other mods
 - Allure Dark Theme GUI (waiting for the update)
 
 ### TODO
-- find a mod to place waypoints in the world (and waypoints also should be placed upon death)
 - Sepals (waiting for the update + buggy)
 - C2ME OpenCL Acceleration Module (buggy)
 - add a datapack which overhauls bastion (add the datapack to important structures)
