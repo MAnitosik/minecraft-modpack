@@ -90,6 +90,12 @@ https://modrinth.com/modpack/rso + other mods
 - Better Mount HUD
 - Explosive Enhancement
 - Hide Experimental Warning
+- Enchantment Insights
+- Accurate Block Placement Reborn
+- GraphWaypoints
+- Shoulder Surfing Reloaded
+- Screenshot Gallery
+- Where Did I Die?
 
 https://modrinth.com/modpack/frozenblock + other mods
 ### big gameplay changes
@@ -106,6 +112,7 @@ https://modrinth.com/modpack/frozenblock + other mods
 - Simple Copper Pipes
 - Easy Anvils
 - Easy Magic
+- Vehicle Upgrade
 - Amplified Nether (waiting for the update)
 - Eternal Nether
 - Stellarity

@@ -1,13 +1,13 @@
 name = "Potatoptimize"
-filename = "Potatoptimize-2.2.0.jar"
+filename = "Potatoptimize-2.2.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/tCUVz9xy/versions/YIUmYXS2/Potatoptimize-2.2.0.jar"
+url = "https://cdn.modrinth.com/data/tCUVz9xy/versions/J9Jufn7Z/Potatoptimize-2.2.1.jar"
 hash-format = "sha512"
-hash = "7fc2a2d0b11bcf08cb8b2b65b2822c9369edb08b37c77f832a9cbde3c712659d94487feb972cea86b8cdaabd7bc9f9c5daa7bc3770ee035eab67fe1aa6d17b4d"
+hash = "7cbcb63c6de4f02b1e746e278d871b0d494fef84a5232a274a012d8be6672ee0ef9f367e670efbb52721f8bddd9ee7a19d55f7c6eeb64d89d39aff316c822c68"
 
 [update]
 [update.modrinth]
 mod-id = "tCUVz9xy"
-version = "YIUmYXS2"
+version = "J9Jufn7Z"

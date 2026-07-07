@@ -102,11 +102,16 @@ hash = "47e4810bca56258fe2ba501bd8872a59dd40433c202276f73c4e958563e0fe34"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "21b5b43e68386006e8cd3eb1a5a5cdf62550c5c99b09f48b84a99ef72eb70e6a"
+hash = "cb032a26a2c9c2d02e3e03e463cd1fc4ef2c8159387408a6c4437ade1d075987"
 
 [[files]]
 file = "mods/abridged.pw.toml"
 hash = "e355748dff546318cc70361cb865c483f57ac13566a23c6e76c528e0d558d264"
+metafile = true
+
+[[files]]
+file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "03f83d7b81a21ff9492aa320e0f8fc64af90b46baa37028a88e50c8a130f05b3"
 metafile = true
 
 [[files]]
@@ -235,6 +240,11 @@ hash = "d6765a3d2b8ebbe0dfa8e2e9ae885c593dbddb43e1c9a0568b36c3f77406ed53"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-insights.pw.toml"
+hash = "c3faed15471027015c86b843a37f9323a735d98ad618c567c9ce72b89c7bf38f"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "88467a7bdda3717c87a35e0833daf833d69603794746106ae20c56408bc2f854"
 metafile = true
@@ -266,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7e69c1869ee0d211bd0e801859950077af1b2a0cc1f1f73f7e08927d0da86563"
+hash = "fa280daf316543afff2f69db87c655fdac0eab4a0455ff055714d43313247785"
 metafile = true
 
 [[files]]
@@ -320,6 +330,11 @@ hash = "584dc0f365060c1593a8365578c5d8eb58c81c04ee7e79487b09c2245b2d2f9f"
 metafile = true
 
 [[files]]
+file = "mods/graph-waypoints.pw.toml"
+hash = "359934ed99d2a24c9f4d12c2a142750feb310f233411e3c6e7a2831638fff55f"
+metafile = true
+
+[[files]]
 file = "mods/haul-data-pack.pw.toml"
 hash = "78692eec0807b392a49d63e8f923b57d080695553712e7e25efb9cd518657c62"
 metafile = true
@@ -341,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "c0caae18b4631f9e076b0a7993c52044fefe52bd9d434368eea8f704d0a327c2"
+hash = "81ed65fc9bad0d8a01599f976e30606edbb5200f863d1bd55b96128c6f036cde"
 metafile = true
 
 [[files]]
@@ -466,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/potatoptimize.pw.toml"
-hash = "c94d948d17545db0291827ae43fed4596d0f63079f2b47db7dedb25c8b46805f"
+hash = "6fe71101bf021643045668f3100f85556f1bd999f823d57fd9fd8b82cfaa3a44"
 metafile = true
 
 [[files]]
@@ -491,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "95616e51ef77b65b736da99639df10f2d93223c59f260cf05777b7fa91c00e08"
+hash = "35a3eb3064c20c62ac5189ddd2577f1cc94206e2c575c50aa9ae5e559b43b374"
 metafile = true
 
 [[files]]
@@ -515,8 +530,18 @@ hash = "3392508587c2cc0bf99ba82fcb02936d0d8d636537237d6aa12ae30cb03c4522"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-gallery.pw.toml"
+hash = "5184a3ebdb2e0e17af077a3911c16c5c7326e11f40587efee5ba5e1635367d11"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "223a48cab4fc6cfa44ce60e70b59583c1a8192019a2716ae3a744a9187b35560"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "87ebf1ae7c0805839b250935f244c6f9bc2d578683b0033764c8667d15b0c3da"
 metafile = true
 
 [[files]]
@@ -590,6 +615,11 @@ hash = "7c31a908b2309d573163326b564a797d28fb7c0c15e18c29d61c930b3adafb27"
 metafile = true
 
 [[files]]
+file = "mods/vehicle-upgrade.pw.toml"
+hash = "ba7ece5192ab86b7265e0cf7c30f5130bcd3f535e884724cfcc955f8a453c04e"
+metafile = true
+
+[[files]]
 file = "mods/village-masquerade.pw.toml"
 hash = "4cc0489e81d0dbf94b37dae36859682362e84e455b480359d10fc7d4a0462bfa"
 metafile = true
@@ -607,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "9d2d6dfc69a39361bb5d9e30c6c35c2ca7b8121ac0b66fad29bcfa81c40b0738"
+metafile = true
+
+[[files]]
+file = "mods/where-did-i-die.pw.toml"
+hash = "f093ec96097b4dabd8bd6b48db19c8498d199571df6daadefccc65c2be9fc289"
 metafile = true
 
 [[files]]
