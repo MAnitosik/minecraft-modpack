@@ -20,3 +20,5 @@ configs:
   - added "<mod|resourcepack|shader>" config
   - removed "<mod|resourcepack|shader>" config
   - changed "<mod|resourcepack|shader>" config
+
+updated mods
