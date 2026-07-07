@@ -1,3 +1,2 @@
 simulationDistance:8
 resourcePacks:["vanilla","serilum_mod_translations","continuity:default","continuity:glass_pane_culling_fix","elytratrails:allaytrails","elytratrails:arrowtrails","flat_shulker_icons","punchy:punchy","subtle_effects:biome_color_water_particles","thecopperierage:copperier_copper","thecopperierage:green_copper_bulbs","file/FA+Player-v1.1.zip","file/§e§lAllure§r§0.zip","file/FreshAnimations_v1.10.5.zip","file/Icons v.1.13.4.zip","file/§eExtended_Illumina_26.2.x.zip","file/Armored Legacy 1.5.1.zip","file/Enchantment Glows v1.11.zip","file/Stellarity-5.5.1-Music.zip"]
-key_key.fancytoasts.config_menu:key.keyboard.unknown

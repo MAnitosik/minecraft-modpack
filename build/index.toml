@@ -102,7 +102,7 @@ hash = "47e4810bca56258fe2ba501bd8872a59dd40433c202276f73c4e958563e0fe34"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "cb032a26a2c9c2d02e3e03e463cd1fc4ef2c8159387408a6c4437ade1d075987"
+hash = "21b5b43e68386006e8cd3eb1a5a5cdf62550c5c99b09f48b84a99ef72eb70e6a"
 
 [[files]]
 file = "mods/abridged.pw.toml"
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "1be396d8af692a0921905a9b22dbc49c3a71eded3b5891ba10855182f9027442"
+hash = "1049850c9b377660d7f4be73ea81d04cd5a4db536b296835c30257fa73a233e4"
 metafile = true
 
 [[files]]
