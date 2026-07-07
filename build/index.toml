@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fa280daf316543afff2f69db87c655fdac0eab4a0455ff055714d43313247785"
+hash = "7b9c5859f27094716924ae732771ef824ce77147f48570c64417422c747923b5"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "5d4d68b3316eb25f72899fe0ea5955338efaf6a31a22f25e6cdc7ffa2409cbcc"
+hash = "828b4df2a3fcc2147a700c3c166bd1953fcf315df813144bedf9d58b274a29ad"
 metafile = true
 
 [[files]]
