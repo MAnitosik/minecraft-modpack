@@ -22,7 +22,7 @@ https://modrinth.com/modpack/simply-optimized-forked
 - More Culling
 - Entity Culling
 - Optimized Block Entities
-- Particle Core (waiting for the update)
+- Particle Core
 - Ixeris
 - ModernFix-mVUS
 - ServerCore
@@ -113,6 +113,7 @@ https://modrinth.com/modpack/frozenblock + other mods
 - Easy Anvils
 - Easy Magic
 - Vehicle Upgrade
+- Audaki Cart Engine (Faster Minecarts)
 - Amplified Nether (waiting for the update)
 - Eternal Nether
 - Stellarity
