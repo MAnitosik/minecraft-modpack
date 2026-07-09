@@ -10,7 +10,7 @@ https://mods.tildejustin.dev/
 - Lithium
 - FerriteCore
 - ImmediatelyFast
-- Iris Shaders (waiting for the update, gives errors with the latest sodium)
+- Iris Shaders
 - Krypton (waiting for the update)
 
 https://skywardmc.org/adrenaline/
@@ -114,7 +114,7 @@ https://modrinth.com/modpack/frozenblock + other mods
 - Easy Magic
 - Vehicle Upgrade
 - Audaki Cart Engine (Faster Minecarts)
-- Amplified Nether (waiting for the update)
+- Amplified Nether
 - Eternal Nether
 - Stellarity
 - Explorify
@@ -149,6 +149,14 @@ https://modrinth.com/modpack/frozenblock + other mods
 - Allure x Fresh Animations (waiting for the update)
 - Allure Dark Theme GUI (waiting for the update)
 
+### Shaders
+- Complementary Shaders - Unbound
+- BSL Shaders
+- MakeUp - Ultra Fast
+- Bliss Shaders (waiting for the update, current version is old)
+- Miniature Shader
+- I Like Vanilla
+
 ### TODO
 - Sepals (waiting for the update + buggy)
 - C2ME OpenCL Acceleration Module (buggy)
@@ -156,4 +164,4 @@ https://modrinth.com/modpack/frozenblock + other mods
 - voxy (include when it is ready for regular usage)
 - Async (buggy)
 - add better combat mod
-- Faster Iris Shadow Mapper
+- Sound Culling
