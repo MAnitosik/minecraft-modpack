@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/frozenlib.pw.toml"
-hash = "d8fd885bbe9150f8cd6ed61187ca43ad952cd37d9876d242f88a097f704ae459"
+hash = "7889f43e63d473e147fda7ca58b0ad4689588ab557df3d3ce545f5a7da9ee64e"
 metafile = true
 
 [[files]]
@@ -395,6 +395,11 @@ hash = "807a319ce0e802960796fc6a609e7d96a8566f161ddc60424ebc1d4fae2da80a"
 metafile = true
 
 [[files]]
+file = "mods/lazyai.pw.toml"
+hash = "36881ec0c2e3c4d1ff1af74118461a3ef8c4d8c424deef25f43d2d7824ec02f8"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d655305d7933a11ed9c0c8edb57868c053b9c995c121c00b47061cf0e098c92a"
 metafile = true
@@ -421,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "68ef1d7f8b9f1cef583006e2573ee8cde6b569deee5d61bc2602e30768a9662f"
+hash = "9ceb72b7c586df8828ee5e9eaf096c913f8debe92805cd5ce6c4ea8922e5fe1d"
 metafile = true
 
 [[files]]

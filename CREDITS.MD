@@ -56,6 +56,7 @@
 - [LambDynamicLights](https://modrinth.com/mod/yBW8D80W)
 - [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA)
 - [Language Reload](https://modrinth.com/mod/uLbm7CG6)
+- [Lazy AI](https://modrinth.com/mod/qgWgCnzi)
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ)
 - [Lithostitched](https://modrinth.com/mod/XaDC71GB)
 - [MRU](https://modrinth.com/mod/SNVQ2c0g)

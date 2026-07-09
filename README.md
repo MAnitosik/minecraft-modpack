@@ -18,6 +18,7 @@ https://modrinth.com/modpack/optimizationn
 https://modrinth.com/modpack/frozenblock
 https://modrinth.com/modpack/rso
 https://modrinth.com/modpack/simply-optimized-forked
+https://modrinth.com/modpack/simply-legacy
 ### additional optimizations
 - More Culling
 - Entity Culling
@@ -46,6 +47,8 @@ https://modrinth.com/modpack/simply-optimized-forked
 - BadOptimizations
 - Oxidizium
 - Potatoptimize
+- KryptonReno's Fabric Patcher (waiting for the update)
+- LazyAI
 
 https://skywardmc.org/additive/
 ### qol
