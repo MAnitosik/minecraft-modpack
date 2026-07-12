@@ -1,13 +1,13 @@
 name = "Oxidizium"
-filename = "oxidizium-panama-1.2.1.jar"
+filename = "oxidizium-panama-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TLtbk2Er/versions/DCb5NV4X/oxidizium-panama-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/TLtbk2Er/versions/4m56fG2b/oxidizium-panama-1.3.0.jar"
 hash-format = "sha512"
-hash = "00c65bf44cc4d405030459c4b9e0bfe57195736c446d796a165588295374c66f621230a5be50d59dbdaf851507d899ebba34b0ab03e9a3917ac8667b64ed7691"
+hash = "855f6fd472ca998ab0b4670664fccb51274b46cc86a15c1732d1ef1e392c5fa68b4a27657e509896cf650091e9e26c6ccc9e0d3b151ea83db2c1a71e09202bea"
 
 [update]
 [update.modrinth]
 mod-id = "TLtbk2Er"
-version = "DCb5NV4X"
+version = "4m56fG2b"

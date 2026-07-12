@@ -1,13 +1,13 @@
 name = "Punchy!"
-filename = "punchy-2.6.1-fabric-26.2.jar"
+filename = "punchy-2.6.2-fabric-26.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8aoMKplv/versions/lCbEGx0j/punchy-2.6.1-fabric-26.2.jar"
+url = "https://cdn.modrinth.com/data/8aoMKplv/versions/eaggJ0OG/punchy-2.6.2-fabric-26.2.jar"
 hash-format = "sha512"
-hash = "d56e5612518f4fd98a4058eece741315f3cad389e914088bd748200bd275715ea47e773a94e27deb6d9cf8baed28dbc45ec8da4906713a39a7fc3a6cf652f669"
+hash = "65f1a7a71d96c16b8ef68764848278b67eac96db73b45206d9d6b5c76c4b37d72e3e43f6ea5fa1cd8878b42682f41161cf4e89d92fa13834f3fd51b299dbde80"
 
 [update]
 [update.modrinth]
 mod-id = "8aoMKplv"
-version = "lCbEGx0j"
+version = "eaggJ0OG"
