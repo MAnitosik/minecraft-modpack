@@ -23,6 +23,7 @@
 - [Dungeons and Taverns Mineshaft Overhaul](https://modrinth.com/mod/ozLFhOy3) by NovaWostra
 - [Dungeons and Taverns Nether Fortress Overhaul](https://modrinth.com/mod/8Dbnvm77) by NovaWostra, Konci, MiziraGamez, Whity
 - [Dungeons and Taverns Ocean Monument Overhaul](https://modrinth.com/mod/z6GJ3ycD) by NovaWostra
+- [Dynamic Sound Culling](https://modrinth.com/mod/sFgqI5oP) by Cukkoo
 - [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) by Fuzs
 - [Easy Magic](https://modrinth.com/mod/9hx3AbJM) by Fuzs
 - [Elytra Contrails](https://modrinth.com/mod/dWMHBEAQ) by dbrighthd
@@ -52,6 +53,7 @@
 - [Iris](https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212, Justsnoopy30, FoundationGames
 - [Ixeris](https://modrinth.com/mod/p8RJPJIC) by decce
 - [Just Enough Book](https://modrinth.com/mod/vCHGW3kJ) by Max Bel
+- [Ksyxis](https://modrinth.com/mod/2ecVyZ49) by VidTu
 - [LAN World Plug\-n\-Play](https://modrinth.com/mod/RTWpcTBp) by Satxm, Rikka0w0
 - [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) by LambdAurora
 - [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA) by LambdAurora

@@ -380,6 +380,11 @@ hash = "74d14bba78033d99b384de2070990e9cf9250ba35c7f77e3aabd0c2b59efbf1d"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "24108936876681291323c2ba37f0a8da6ae4a779411e360d480f21ab145c396b"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "b50253fe8f4084dce9a1ef6865e9bc78d7801b1ee02e78571f7d1f0096748640"
 metafile = true
@@ -526,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "b9a63e882013d882c9b63a348c2a8cdc39dba9b5f168612e69d10b2afa148676"
+hash = "c4c31ef7df71b4cef6f3af39364d8b6a1454fe9343a31b98f8d48cff572e4618"
 metafile = true
 
 [[files]]
@@ -592,6 +597,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
+metafile = true
+
+[[files]]
+file = "mods/sound-culling.pw.toml"
+hash = "6806c3a059af68ade04d259371adfd71f2ba193653c82bfe31747f286d97579a"
 metafile = true
 
 [[files]]

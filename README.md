@@ -49,6 +49,9 @@ https://modrinth.com/modpack/simply-legacy
 - Potatoptimize
 - KryptonReno's Fabric Patcher (waiting for the update)
 - LazyAI
+- Smart Particles (waiting for the update)
+- Ksyxis
+- Sound Culling
 
 https://skywardmc.org/additive/
 ### qol

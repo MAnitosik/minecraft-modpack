@@ -1,0 +1,13 @@
+name = "Sound Culling"
+filename = "soundculling-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sFgqI5oP/versions/fATrp3e9/soundculling-1.0.1.jar"
+hash-format = "sha512"
+hash = "c1dcf26572e27b166cd4e341c8bfbc77f085dfb947f84423d321fc9ce971a56ac808f39c37986c1ba6ad52f3f724333ff96b37fd7ad164b72029581fe96d6314"
+
+[update]
+[update.modrinth]
+mod-id = "sFgqI5oP"
+version = "fATrp3e9"
