@@ -1,0 +1,18 @@
+{
+	"menuAlert":true,
+	"chatAlert":true,
+	"localVersion":"v7.18",
+	"modpackId":"zLhh2Szy",
+	"multiVersion":false,
+	"multiLoaderBool":false,
+	"multiLoader":"FABRIC",
+	"useModpackName":true,
+	"modpackName":"CATpack",
+	"useCustomMessage":false,
+	"customMessage":"",
+	"messageColor":"WHITE",
+	"linkChangelog":true,
+	"changelogColor":"RED",
+	"ignoreColor":"GRAY",
+	"migrated":false
+}

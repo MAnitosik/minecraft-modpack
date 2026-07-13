@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/modpack_defaults/config/aiutd.json"
+hash = "ac9bb6fd37feacbecf3f7b26db899ef2af514ce01e40b2b9621b05c06aaf5f02"
+
+[[files]]
 file = "config/modpack_defaults/config/badoptimizations.txt"
 hash = "2917a8f8112e36e27b240bdbe0e6987c5e8b0964595ed42ca2fbe1b16350df71"
 
@@ -117,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
 hash = "d3ebef32fadf877a676d864a27cbe0939f133c0ae998ab26e0232dc580aa2820"
+metafile = true
+
+[[files]]
+file = "mods/aiutd.pw.toml"
+hash = "4bb16389fcb696da535e7d8705718ca90a133388cea674d7736b2f90d4e696a2"
 metafile = true
 
 [[files]]
@@ -302,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "d483b69d05922629fddfbfdbe3a9bf6c9730cdba333e0a9b610ee33b118f8781"
+metafile = true
+
+[[files]]
+file = "mods/fastjson4yacl.pw.toml"
+hash = "4fee6d1c60e5a5084ed8b6d3560c48a450441b0fe13812debd67c74483b3425d"
 metafile = true
 
 [[files]]
