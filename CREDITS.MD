@@ -2,7 +2,6 @@
 - [Accurate Block Placement](https://modrinth.com/mod/kzwxhsjp) by Clayborn, Flourick, KadTheHunter
 - [Advancements Reloaded](https://modrinth.com/mod/tLuRLqpa) by @42atomys
 - [Alternate Current](https://modrinth.com/mod/r0v8vy1s) by Space Walker
-- [Am I Up To Date?](https://modrinth.com/mod/tgacmJEn) by VesMaybeVesper
 - [Amplified Nether](https://modrinth.com/mod/wXiGiyGX) by Stardust Labs
 - [Animatica Refabricated](https://modrinth.com/mod/xEyZuswh) by FoundationGames, coredex\-source
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) by squeek502
@@ -34,7 +33,6 @@
 - [Eternal Nether](https://modrinth.com/mod/s6R4jmL8) by Izofar, Fuzs
 - [Explorify](https://modrinth.com/mod/HSfsxuTo) by bebebea\_loste
 - [Explosive Enhancement](https://modrinth.com/mod/OSQ8mw2r) by Superkat32
-- [FASTJSON2 Serializer for YACL](https://modrinth.com/mod/PM2j1xwl) by VesMaybeVesper
 - [Fabric API](https://modrinth.com/mod/P7dR8mSH) by FabricMC
 - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) by FabricMC
 - [Fancy World Animations](https://modrinth.com/mod/IAzUFvS6) by maDU59\_
