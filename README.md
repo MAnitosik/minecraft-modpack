@@ -32,7 +32,7 @@ https://modrinth.com/modpack/simply-legacy
 - Concurrent Chunk Management Engine (Fabric)
 - ScalableLux
 - Very Many Players (Fabric)
-- Immersive Optimization (waiting for the update)
+- Immersive Optimization
 - TT20 (TPS Fixer)
 - Fast IP Ping
 - FastQuit (waiting for the update)
@@ -45,7 +45,7 @@ https://modrinth.com/modpack/simply-legacy
 - Clumps
 - Async Logger
 - BadOptimizations
-- Oxidizium
+- Oxidizium (waiting for the update, bugged)
 - Potatoptimize
 - KryptonReno's Fabric Patcher (waiting for the update)
 - LazyAI
@@ -77,6 +77,7 @@ https://modrinth.com/modpack/rso
 - More Chat History
 - No Chat Reports
 - Peek
+- Inventory Profiles Next
 
 https://modrinth.com/modpack/rso + other mods
 ### small gameplay changes

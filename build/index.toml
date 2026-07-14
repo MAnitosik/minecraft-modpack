@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
-hash = "786993e5bb314f53039578ace75997775d59b1c3766acd506781c1b170b0d791"
+hash = "9efd2467725934e660f256346950d4e10ca44f034475ce8909a29fe0790dd5cc"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "159b583e8e5fa6934327438d3eb072777617bb1862c59f816ae9806e6d53e14b"
+hash = "0ae05936c0c6e1d346ce5e6a24bf1bf78ab841c52d88a7c1b2a1b89923e2a4c7"
 metafile = true
 
 [[files]]
@@ -365,6 +365,11 @@ hash = "4558d459a64d360ef8954016a272f690b45e74fe8f078388a5a6329e5fa973f6"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "c3d87832823c9a37dcca3bd2e82d7268428acdc2c676fbd66169b2b4b6eab271"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "7262c5dea44f3ef66051c5300f498d03ad64f97cc5c920dd04ec8f0ba607bb92"
 metafile = true
@@ -461,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "a26c626f3adf5c528cf199026d0413526cf545a516e2e9a73daad290145ddac8"
+hash = "449c19df82878db04518efc5e99e850d1336bf5f362a876b103ab111386c523d"
 metafile = true
 
 [[files]]
@@ -482,11 +487,6 @@ metafile = true
 [[files]]
 file = "mods/ore-harvester.pw.toml"
 hash = "0190c2b7ad68020d74a3304fc0f1e75715e5be4aa8fd5fe17bfa392246deef14"
-metafile = true
-
-[[files]]
-file = "mods/oxidizium.pw.toml"
-hash = "b9331cfc7fcf152407b54d70ad76b5f3267dda3957aaef4e08dafab304c4b0c1"
 metafile = true
 
 [[files]]
@@ -546,12 +546,12 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "ffa7ca2880b9a49b5161655d6106a49758dee46660dc0dc1484862b0e32c73d2"
+hash = "fbad7b43bfc9b58ea935baac8f4c9cde30a15b9c881f2df66c6f9d08cc922243"
 metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "32ec97d5e0257f65bce0249156bd4a76635b8b06a8fcf0ce06e6e8b40d0774f0"
+hash = "b5b8c2fee800c5c02f5113dce6b983309edde643006383cd2c783a7a19d8ca16"
 metafile = true
 
 [[files]]

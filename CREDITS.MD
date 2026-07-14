@@ -50,6 +50,7 @@
 - [Hide Experimental Warning](https://modrinth.com/mod/Rm4OOdHd) by Rick South
 - [HopoBetterMineshaft](https://modrinth.com/mod/9IxCUYAP) by Hoponopono
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
+- [Immersive Optimization](https://modrinth.com/mod/vNZgQmjg) by Luke100000
 - [Iris](https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212, Justsnoopy30, FoundationGames
 - [Ixeris](https://modrinth.com/mod/p8RJPJIC) by decce
 - [Just Enough Book](https://modrinth.com/mod/vCHGW3kJ) by Max Bel
@@ -74,7 +75,6 @@
 - [OptiGUI](https://modrinth.com/mod/JuksLGBQ) by opekope2
 - [Optimized block entities](https://modrinth.com/mod/AtOSAunf) by maDU59\_
 - [Ore Harvester](https://modrinth.com/mod/Xiv4r347) by Rick South
-- [Oxidizium Panama](https://modrinth.com/mod/TLtbk2Er)
 - [Particle Core](https://modrinth.com/mod/RSeLon5O) by fzzyhmstrs
 - [Peek](https://modrinth.com/mod/TnOXNf5e) by Max Henkel
 - [Placeholder API](https://modrinth.com/mod/eXts2L7r) by Patbox

@@ -1,13 +1,13 @@
 name = "Resourceful Lib"
-filename = "ResourcefulLib-5.0.1.jar"
+filename = "ResourcefulLib-5.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/nONG6aAf/ResourcefulLib-5.0.1.jar"
+url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/JhRhVTsi/ResourcefulLib-5.0.2.jar"
 hash-format = "sha512"
-hash = "70529b413c3e1629906f25757402486e36792765d1cc946e61339577ca226eec5c6e9102d9f4d8d6c61b2b33c09e9d6479a4964e6b6a158d9ec406d7ea1717c1"
+hash = "88158a72b0ebd90c70bd3337171682781ad0303e39cb9abc34efff9474c72103eb3c102b162bb82fa80b557ec8bf567bf59209d18c12e94a89169a32f8ba7d7d"
 
 [update]
 [update.modrinth]
 mod-id = "G1hIVOrD"
-version = "nONG6aAf"
+version = "JhRhVTsi"
