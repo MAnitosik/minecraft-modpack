@@ -11,7 +11,7 @@ https://mods.tildejustin.dev/
 - FerriteCore
 - ImmediatelyFast
 - Iris Shaders
-- Krypton (waiting for the update)
+- Krypton
 
 https://skywardmc.org/adrenaline/
 https://modrinth.com/modpack/optimizationn
