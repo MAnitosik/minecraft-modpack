@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "0ae05936c0c6e1d346ce5e6a24bf1bf78ab841c52d88a7c1b2a1b89923e2a4c7"
+hash = "27ac2b1ff7cae62fec1fcddfee074a9f935a5a47e11d7004ad923501b03f83e6"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-anvils.pw.toml"
-hash = "0527624ddafeb54dee9724eb4f34907ee940f567b92a8f60f39063a7d3b09d8b"
+hash = "6f6a3fef42333dbbddacd82f5b2a2c7b48e7ebf839a5ac69782b18e2075e0890"
 metafile = true
 
 [[files]]
@@ -286,12 +286,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7b9c5859f27094716924ae732771ef824ce77147f48570c64417422c747923b5"
+hash = "1b9e935845b8242b10f5be1e641b3307a3557083ba364b06af57f5e32ffec2b5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "e25fb2758631030f59b9e49e1eeb46d72aa5daa4aef913504271b75d0e0af585"
+hash = "2e30918a332c73dca433e50fe8527d4bc55d73b558a20f8f76bd340011e31588"
 metafile = true
 
 [[files]]
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "e7a970741eacd22d162ddc2dfeffae05bd28ba71fbfe09ecaf2fded78d9d0089"
+hash = "f4a7b817de3047c78575b1e0b433be1a81057f5288ad3dcb08f728bd4f73d4ed"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "449c19df82878db04518efc5e99e850d1336bf5f362a876b103ab111386c523d"
+hash = "16a98c718f4eee3f58c2b034e2d12326e292484bb04ae41b9752440a8e672de9"
 metafile = true
 
 [[files]]
@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "5e51482cac59be2fb3e313015b08d6d6401955e6244a731427758e4167736182"
+hash = "36ae6ace1957f8a6e144f1aceaa976f830189a1b769a79a37f2fad191047c8cc"
 metafile = true
 
 [[files]]
@@ -636,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtly-dungeons.pw.toml"
-hash = "66e2f8e0b7f9054299cb21d5bd33806faf3cf4734df770b674e61df7c24cf3de"
+hash = "f043912d92c2ed7210734736987765686a8ecb13a44f5d5ee2b469e2cc6805d2"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Subtly Dungeons"
-filename = "subtlyd-4.1.jar"
+filename = "subtlyd-4.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/c65QHwL5/versions/XVHWJQMq/subtlyd-4.1.jar"
+url = "https://cdn.modrinth.com/data/c65QHwL5/versions/yecrTcCV/subtlyd-4.2.jar"
 hash-format = "sha512"
-hash = "8d34c6ad4b07b4b7d803c8e9547276d7397bda54a87437add27d2639974fa4a266cbf36435fda35989c2fe5d4932a3a12894e4c01a357fac6b48b123b05ce6d7"
+hash = "78b01f44ecbe550f9ed8fad65bdb4162ee308927f98032483cc155445001166fb7de04b9167cdd2ead36d69e8d896739a71252e940c6ce54111949b303ede51e"
 
 [update]
 [update.modrinth]
 mod-id = "c65QHwL5"
-version = "XVHWJQMq"
+version = "yecrTcCV"
