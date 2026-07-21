@@ -45,8 +45,8 @@ https://modrinth.com/modpack/simply-legacy
 - Clumps
 - Async Logger
 - BadOptimizations
-- Oxidizium (waiting for the update, bugged)
 - Potatoptimize
+- Jasione
 - KryptonReno's Fabric Patcher (waiting for the update)
 - LazyAI
 - Smart Particles (waiting for the update)
@@ -91,7 +91,7 @@ https://modrinth.com/modpack/rso + other mods
 - Subtle Effects
 - Punchy!
 - Smooth Scrolling
-- Camera Overhaul (waiting for the update)
+- Camera Overhaul
 - Particle Rain (waiting for the update)
 - Elytra Contrails Mod
 - Better Mount HUD
@@ -167,7 +167,6 @@ https://modrinth.com/modpack/frozenblock + other mods
 ### TODO
 - Sepals (waiting for the update + buggy)
 - C2ME OpenCL Acceleration Module (buggy)
-- add a datapack which overhauls bastion (add the datapack to important structures)
 - voxy (include when it is ready for regular usage)
 - Async (buggy)
-- add better combat mod
+- Oxidizium (idk)

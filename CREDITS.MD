@@ -11,6 +11,7 @@
 - [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) by Thosea
 - [Better Mount HUD](https://modrinth.com/mod/kqJFAPU9) by Lortseam
 - [Bobby](https://modrinth.com/mod/M08ruV16) by johni0702
+- [CameraOverhaul](https://modrinth.com/mod/m0oRwcZx) by Mirsario, 
 - [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) by dzwdz, Fourmisain
 - [Cloth Config v26\.2](https://modrinth.com/mod/9s6osm5g) by shedaniel
 - [Clumps](https://modrinth.com/mod/Wnxd13zP) by Jaredlll08
@@ -23,7 +24,6 @@
 - [Dungeons and Taverns Mineshaft Overhaul](https://modrinth.com/mod/ozLFhOy3) by NovaWostra
 - [Dungeons and Taverns Nether Fortress Overhaul](https://modrinth.com/mod/8Dbnvm77) by NovaWostra, Konci, MiziraGamez, Whity
 - [Dungeons and Taverns Ocean Monument Overhaul](https://modrinth.com/mod/z6GJ3ycD) by NovaWostra
-- [Dynamic Sound Culling](https://modrinth.com/mod/sFgqI5oP) by Cukkoo
 - [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) by Fuzs
 - [Easy Magic](https://modrinth.com/mod/9hx3AbJM) by Fuzs
 - [Elytra Contrails](https://modrinth.com/mod/dWMHBEAQ) by dbrighthd
@@ -51,8 +51,10 @@
 - [HopoBetterMineshaft](https://modrinth.com/mod/9IxCUYAP) by Hoponopono
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
 - [Immersive Optimization](https://modrinth.com/mod/vNZgQmjg) by Luke100000
+- [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n) by Mirinimi
 - [Iris](https://modrinth.com/mod/YL57xq9U) by coderbot, IMS212, Justsnoopy30, FoundationGames
 - [Ixeris](https://modrinth.com/mod/p8RJPJIC) by decce
+- [Jasione](https://modrinth.com/mod/qlDkBPij) by decce
 - [Just Enough Book](https://modrinth.com/mod/vCHGW3kJ) by Max Bel
 - [Ksyxis](https://modrinth.com/mod/2ecVyZ49) by VidTu
 - [LAN World Plug\-n\-Play](https://modrinth.com/mod/RTWpcTBp) by Satxm, Rikka0w0
@@ -96,6 +98,7 @@
 - [Smooth Scrolling](https://modrinth.com/mod/CllP7wW0) by Smajslo
 - [Sodium](https://modrinth.com/mod/AANobbMI) by JellySquid \(jellysquid3\)
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) by FlashyReese
+- [Sound Culling](https://modrinth.com/mod/sFgqI5oP) by Cukkoo
 - [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) by Sonic Ether, vlad2305m, Max Henkel, Saint
 - [Sounds](https://modrinth.com/mod/ZouiUX7t) by IMB11, cassiancc
 - [Stellarity](https://modrinth.com/mod/bZgeDzN8) by kohara
@@ -114,4 +117,5 @@
 - [Waypoints](https://modrinth.com/mod/me5Sp3Qd) by iGraphik
 - [Where Did I Die?](https://modrinth.com/mod/bzsPcleL) by Rick South
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander
+- [libIPN](https://modrinth.com/mod/onSQdWhM) by Mirinimi
 - [quick\-pack](https://modrinth.com/mod/pSISfJ4O) by Drex
