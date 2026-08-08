@@ -1,7 +1,7 @@
 ### v<X.Y>-d<DD.MM.YYYY>
 
 X - additions|removals of mods|resourcepacks|shaders
-Y - config additions|removals|changes or mods|resourcepacks|shaders updates
+Y - additions|removals|changes of configs or updates of mods|resourcepacks|shaders
 
 starts with "1.1"
 resets every minecraft version
