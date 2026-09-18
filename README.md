@@ -77,3 +77,11 @@
 - Pushier Pistons
 - Simple Copper Pipes
 - The Copperier Age: Copperier Copper
+
+## gameplay
+### camera
+- Camera Overhaul
+- Shoulder Surfing Reloaded
+### effects
+- Subtle Effects
+- Explosive Enhancement
